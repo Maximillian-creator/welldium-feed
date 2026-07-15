@@ -35,7 +35,8 @@ def build_description_html(p):
     if p.get("suggested_intake"):
         parts.append(f"<p><strong>Dosering:</strong> {escape(p['suggested_intake'])}</p>")
     if p.get("nutritional_info"):
-        parts.append(f"<p><strong>Voedingswaarde:</strong> {escape(p['nutritional_info'])}</p>")
+        ni = escape(p['nutritional_info']).replace("\n", "<br>")
+        parts.append(f"<p><strong>Ingrediënten:</strong><br>{ni}</p>")
     if p.get("allergens"):
         parts.append(f"<p><strong>Allergenen:</strong> {escape(p['allergens'])}</p>")
     if p.get("warnings"):

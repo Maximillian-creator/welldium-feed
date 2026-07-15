@@ -28,6 +28,7 @@ Env-overrides (optioneel):
 """
 
 import os
+import re
 import time
 from urllib.parse import urlsplit, urlunsplit, quote
 
@@ -165,6 +166,53 @@ def _images(hit):
     return [IPX_PREFIX + _encode_blob(i["url"]) for i in imgs if i.get("url")]
 
 
+# Algolia `unit`-codes -> eenheid. Alleen zekere codes; onbekend = geen eenheid
+# tonen (dan laten we de dosis weg i.p.v. een verkeerde eenheid te vermelden).
+UNIT_MAP = {0: "mg", 3: "µg"}
+
+
+def _clean_label(name):
+    """Markdown-cursief (_naam_) uit labelName halen -> platte naam."""
+    return re.sub(r"_([^_]+)_", r"\1", name or "").strip()
+
+
+def _flatten_ingredients(items, depth=0):
+    out = []
+    for it in items or []:
+        out.append((depth, it))
+        out.extend(_flatten_ingredients(it.get("children"), depth + 1))
+    return out
+
+
+def _ingredients_text(hit):
+    """Ingrediënten/voedingswaarde als platte tekst.
+
+    Eerste keuze: het NL vrije-tekstveld `nutritionalInformation` (het curated
+    label). Ontbreekt dat, dan bouwen we de lijst op uit het gestructureerde
+    `productIngredients`-boompje (naam + dosis waar de eenheid bekend is; sub-
+    ingrediënten met een bullet).
+    """
+    nl = (hit.get("localizations") or {}).get("nl") or {}
+    free = (nl.get("nutritionalInformation") or "").strip()
+    if free:
+        return free
+    lines = []
+    for depth, it in _flatten_ingredients(hit.get("productIngredients")):
+        name = _clean_label(it.get("labelName"))
+        if not name:
+            continue
+        amount = it.get("amount")
+        unit = UNIT_MAP.get(it.get("unit"))
+        if amount not in (None, 0) and unit:
+            amt = int(amount) if float(amount).is_integer() else amount
+            dose = f" – {amt} {unit}"
+        else:
+            dose = ""
+        prefix = "• " if depth else ""
+        lines.append(f"{prefix}{name}{dose}")
+    return "\n".join(lines)
+
+
 def _venlo_quantity(hit):
     """NL-voorraad: Venlo-magazijn; val terug op top-level quantity."""
     stock = hit.get("stock") or {}
@@ -211,7 +259,7 @@ def normalize(hit):
         "storage": nl.get("storageRequirements", ""),
         "allergens": nl.get("allergens", ""),
         "warnings": nl.get("warnings", ""),
-        "nutritional_info": nl.get("nutritionalInformation", ""),
+        "nutritional_info": _ingredients_text(hit),
         # ruwe stockStatus voor debug
         "stock_status": (hit.get("stockStatus") or {}).get("id", ""),
     }
