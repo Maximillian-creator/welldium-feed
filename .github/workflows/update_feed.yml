@@ -6,6 +6,10 @@ on:
     - cron: "0 6,18 * * *"
   workflow_dispatch:
 
+# De bot moet de bijgewerkte XML kunnen terugpushen naar de repo.
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
