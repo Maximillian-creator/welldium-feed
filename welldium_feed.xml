@@ -86,7 +86,7 @@
     <price>50.37</price>
     <cost>32.35</cost>
     <available>true</available>
-    <quantity>314</quantity>
+    <quantity>313</quantity>
   </product>
   <product>
     <sku>ML-52736</sku>
@@ -606,7 +606,7 @@
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>393</quantity>
+    <quantity>391</quantity>
   </product>
   <product>
     <sku>ASH-CAP</sku>
