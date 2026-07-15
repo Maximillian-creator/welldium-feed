@@ -26,23 +26,42 @@ OUTPUT_FILE = "welldium_add_feed.xml"
 
 
 def build_description_html(p):
-    """Rijke NL-beschrijving uit de Algolia-localizations."""
+    """Rijke, volledige NL-beschrijving: álle productinfo in één description-veld."""
     parts = []
+    # Productvoordelen / omschrijving
     if p.get("short_description"):
         parts.append(f"<p>{escape(p['short_description'])}</p>")
     if p.get("description"):
         parts.append(f"<p>{escape(p['description'])}</p>")
-    if p.get("suggested_intake"):
-        parts.append(f"<p><strong>Dosering:</strong> {escape(p['suggested_intake'])}</p>")
+    # Kenmerken (certificeringen: Vegan, Hypoallergeen, ...)
+    if p.get("verifications"):
+        parts.append(f"<p><strong>Kenmerken:</strong> {escape(p['verifications'])}</p>")
+    # Ingrediënten (supplement facts) + overige ingrediënten
     if p.get("nutritional_info"):
         ni = escape(p['nutritional_info']).replace("\n", "<br>")
         parts.append(f"<p><strong>Ingrediënten:</strong><br>{ni}</p>")
+    if p.get("other_ingredients"):
+        parts.append(f"<p><strong>Overige ingrediënten:</strong> {escape(p['other_ingredients'])}</p>")
+    # Dosering
+    if p.get("suggested_intake"):
+        parts.append(f"<p><strong>Dosering:</strong> {escape(p['suggested_intake'])}</p>")
+    # Allergenen
     if p.get("allergens"):
         parts.append(f"<p><strong>Allergenen:</strong> {escape(p['allergens'])}</p>")
+    # Waarschuwingen / voorzorg
     if p.get("warnings"):
         parts.append(f"<p><strong>Waarschuwingen:</strong> {escape(p['warnings'])}</p>")
+    # Bewaren
     if p.get("storage"):
         parts.append(f"<p><strong>Bewaren:</strong> {escape(p['storage'])}</p>")
+    # Vorm + aantal porties
+    form_bits = []
+    if p.get("delivery_format"):
+        form_bits.append(str(p["delivery_format"]))
+    if p.get("servings"):
+        form_bits.append(f"{p['servings']} porties per verpakking")
+    if form_bits:
+        parts.append(f"<p><strong>Vorm:</strong> {escape(' · '.join(form_bits))}</p>")
     return "\n".join(parts)
 
 

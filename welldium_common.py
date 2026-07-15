@@ -260,6 +260,10 @@ def normalize(hit):
         "allergens": nl.get("allergens", ""),
         "warnings": nl.get("warnings", ""),
         "nutritional_info": _ingredients_text(hit),
+        "other_ingredients": nl.get("otherIngredients", ""),
+        "verifications": ", ".join(
+            v.get("name", "") for v in (hit.get("productVerifications") or []) if v.get("name")
+        ),
         # ruwe stockStatus voor debug
         "stock_status": (hit.get("stockStatus") or {}).get("id", ""),
     }
