@@ -45,6 +45,15 @@ practitioner-winkelmandje gaat daar **30%** af = jouw inkoop.
 > **Geen BTW-opslag in Stock Sync instellen** — `price` is al incl. BTW.
 > **Geen EAN/barcode** in de Algolia-index; Stock Sync matcht op **SKU**.
 
+### Afbeeldingen
+
+De ruwe Azure-blob-URL's worden geserveerd als `application/octet-stream`, waardoor
+Shopify ze weigert ("Mediaverwerking mislukt"). Daarom lopen alle afbeeldingen in de
+feed via de **Nuxt-image-proxy** van welldium.com (`/_ipx/w_1200&q_90/…`), die
+dezelfde afbeelding mét de juiste content-type (`image/webp`) serveert. Shopify haalt
+'m bij import één keer op en zet 'm daarna op z'n eigen CDN. Bestandsnamen met spaties
+e.d. worden percent-geëncodeerd. Instelbaar via `IPX_PREFIX`.
+
 ### Verzendbeperkingen
 
 Sommige producten mogen door ingrediëntenregelgeving niet naar Nederland worden
