@@ -30,6 +30,7 @@ Env-overrides (optioneel):
 import os
 import re
 import time
+from html import escape
 from urllib.parse import urlsplit, urlunsplit, quote
 
 import requests
@@ -213,6 +214,39 @@ def _ingredients_text(hit):
     return "\n".join(lines)
 
 
+def _build_body_html(p):
+    """Volledige NL-beschrijving: álle productinfo in één HTML-blok, zodat beide
+    feeds (add + update) exact hetzelfde description-veld leveren."""
+    parts = []
+    if p.get("short_description"):
+        parts.append(f"<p>{escape(p['short_description'])}</p>")
+    if p.get("description"):
+        parts.append(f"<p>{escape(p['description'])}</p>")
+    if p.get("verifications"):
+        parts.append(f"<p><strong>Kenmerken:</strong> {escape(p['verifications'])}</p>")
+    if p.get("nutritional_info"):
+        ni = escape(p["nutritional_info"]).replace("\n", "<br>")
+        parts.append(f"<p><strong>Ingrediënten:</strong><br>{ni}</p>")
+    if p.get("other_ingredients"):
+        parts.append(f"<p><strong>Overige ingrediënten:</strong> {escape(p['other_ingredients'])}</p>")
+    if p.get("suggested_intake"):
+        parts.append(f"<p><strong>Dosering:</strong> {escape(p['suggested_intake'])}</p>")
+    if p.get("allergens"):
+        parts.append(f"<p><strong>Allergenen:</strong> {escape(p['allergens'])}</p>")
+    if p.get("warnings"):
+        parts.append(f"<p><strong>Waarschuwingen:</strong> {escape(p['warnings'])}</p>")
+    if p.get("storage"):
+        parts.append(f"<p><strong>Bewaren:</strong> {escape(p['storage'])}</p>")
+    form_bits = []
+    if p.get("delivery_format"):
+        form_bits.append(str(p["delivery_format"]))
+    if p.get("servings"):
+        form_bits.append(f"{p['servings']} porties per verpakking")
+    if form_bits:
+        parts.append(f"<p><strong>Vorm:</strong> {escape(' · '.join(form_bits))}</p>")
+    return "\n".join(parts)
+
+
 def _venlo_quantity(hit):
     """NL-voorraad: Venlo-magazijn; val terug op top-level quantity."""
     stock = hit.get("stock") or {}
@@ -237,7 +271,7 @@ def normalize(hit):
     nl = (hit.get("localizations") or {}).get("nl") or {}
     brand = (hit.get("productBrand") or {}).get("name", "")
 
-    return {
+    d = {
         "sku": hit.get("sku", ""),
         "barcode": "",  # niet aanwezig in de Algolia-index; Stock Sync matcht op SKU
         "title": hit.get("name", ""),
@@ -267,6 +301,9 @@ def normalize(hit):
         # ruwe stockStatus voor debug
         "stock_status": (hit.get("stockStatus") or {}).get("id", ""),
     }
+    # Volledige beschrijving (álle info) — beide feeds gebruiken dit veld.
+    d["body_html"] = _build_body_html(d)
+    return d
 
 
 def fetch_products(brands=None):

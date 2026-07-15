@@ -37,6 +37,7 @@ def build_xml(products):
         add("cost", f"{p['cost']:.2f}")
         add("available", "true" if p["available"] else "false")
         add("quantity", p["quantity"])
+        add("description", p["body_html"])
     return root
 
 
