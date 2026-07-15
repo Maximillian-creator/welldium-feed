@@ -33,14 +33,6 @@
     <quantity>62</quantity>
   </product>
   <product>
-    <sku>TMC-29475</sku>
-    <barcode/>
-    <price>62.27</price>
-    <cost>39.99</cost>
-    <available>true</available>
-    <quantity>59</quantity>
-  </product>
-  <product>
     <sku>TMC-53266</sku>
     <barcode/>
     <price>18.31</price>
@@ -103,14 +95,6 @@
     <cost>39.99</cost>
     <available>true</available>
     <quantity>99</quantity>
-  </product>
-  <product>
-    <sku>TMC-52776</sku>
-    <barcode/>
-    <price>50.03</price>
-    <cost>32.13</cost>
-    <available>true</available>
-    <quantity>60</quantity>
   </product>
   <product>
     <sku>TMC-76196</sku>
@@ -329,14 +313,6 @@
     <quantity>0</quantity>
   </product>
   <product>
-    <sku>VITA-DK-CAP</sku>
-    <barcode/>
-    <price>27.74</price>
-    <cost>17.81</cost>
-    <available>true</available>
-    <quantity>91</quantity>
-  </product>
-  <product>
     <sku>DIM-I3C-CAP</sku>
     <barcode/>
     <price>47.72</price>
@@ -377,14 +353,6 @@
     <quantity>41</quantity>
   </product>
   <product>
-    <sku>P5P-CAP</sku>
-    <barcode/>
-    <price>24.42</price>
-    <cost>15.68</cost>
-    <available>true</available>
-    <quantity>31</quantity>
-  </product>
-  <product>
     <sku>OP-FOC-CAP</sku>
     <barcode/>
     <price>55.49</price>
@@ -401,14 +369,6 @@
     <quantity>28</quantity>
   </product>
   <product>
-    <sku>PREN-ESS-CAP</sku>
-    <barcode/>
-    <price>42.17</price>
-    <cost>27.08</cost>
-    <available>true</available>
-    <quantity>47</quantity>
-  </product>
-  <product>
     <sku>PB-HIS-CAP</sku>
     <barcode/>
     <price>46.61</price>
@@ -423,14 +383,6 @@
     <cost>29.93</cost>
     <available>true</available>
     <quantity>16</quantity>
-  </product>
-  <product>
-    <sku>MULTI-PLUS-CAP</sku>
-    <barcode/>
-    <price>87.67</price>
-    <cost>56.30</cost>
-    <available>true</available>
-    <quantity>10</quantity>
   </product>
   <product>
     <sku>NAC-CAP</sku>
@@ -479,14 +431,6 @@
     <cost>35.64</cost>
     <available>true</available>
     <quantity>14</quantity>
-  </product>
-  <product>
-    <sku>MAG-PLUS-CAP</sku>
-    <barcode/>
-    <price>32.19</price>
-    <cost>20.67</cost>
-    <available>true</available>
-    <quantity>31</quantity>
   </product>
   <product>
     <sku>BCOMMF-CAP</sku>
@@ -543,14 +487,6 @@
     <cost>49.89</cost>
     <available>true</available>
     <quantity>19</quantity>
-  </product>
-  <product>
-    <sku>OP-PREN-CAP</sku>
-    <barcode/>
-    <price>77.68</price>
-    <cost>49.89</cost>
-    <available>true</available>
-    <quantity>31</quantity>
   </product>
   <product>
     <sku>LIV-NUT-CAP</sku>
@@ -845,14 +781,6 @@
     <barcode/>
     <price>42.17</price>
     <cost>27.08</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-  </product>
-  <product>
-    <sku>SKIN-NUT-CAP</sku>
-    <barcode/>
-    <price>66.59</price>
-    <cost>42.76</cost>
     <available>false</available>
     <quantity>0</quantity>
   </product>

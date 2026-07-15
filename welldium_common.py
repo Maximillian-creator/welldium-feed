@@ -45,6 +45,11 @@ DISCOUNT = float(os.environ.get("WELLDIUM_DISCOUNT", "0.30"))
 # Merken die we via Welldium inkopen (exact zoals in de Algolia-facet).
 DEFAULT_BRANDS = ["Microbiome Labs", "Invivo", "Seeking Health"]
 
+# Land waar wij naartoe verzenden. Producten met een verzendbeperking voor dit
+# land (Algolia-veld `restrictedCountries`, bv. door ingrediëntenregelgeving)
+# worden uit de feed gelaten.
+SHIP_COUNTRY = os.environ.get("SHIP_COUNTRY", "NL")
+
 
 def brands_from_env():
     raw = os.environ.get("WELLDIUM_BRANDS")
@@ -199,8 +204,12 @@ def fetch_products(brands=None):
     out = []
     for brand in brands:
         hits = fetch_brand(brand)
-        active = [h for h in hits if h.get("isActive") and not h.get("isHidden")]
-        print(f"  {brand}: {len(active)} actieve producten (van {len(hits)} totaal)")
+        active = [h for h in hits
+                  if h.get("isActive") and not h.get("isHidden")
+                  and SHIP_COUNTRY not in (h.get("restrictedCountries") or [])]
+        skipped = len(hits) - len(active)
+        print(f"  {brand}: {len(active)} leverbaar naar {SHIP_COUNTRY} "
+              f"({skipped} overgeslagen van {len(hits)} totaal)")
         for h in active:
             p = normalize(h)
             if p and p["sku"]:

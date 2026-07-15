@@ -45,6 +45,12 @@ practitioner-winkelmandje gaat daar **30%** af = jouw inkoop.
 > **Geen BTW-opslag in Stock Sync instellen** — `price` is al incl. BTW.
 > **Geen EAN/barcode** in de Algolia-index; Stock Sync matcht op **SKU**.
 
+### Verzendbeperkingen
+
+Sommige producten mogen door ingrediëntenregelgeving niet naar Nederland worden
+verzonden (Algolia-veld `restrictedCountries`, bv. `["NL"]`). Die worden
+**automatisch uit beide feeds gelaten**. Instelbaar via `SHIP_COUNTRY` (default `NL`).
+
 ## Velden in de add-feed
 
 Per `<product>`: `handle` (= SKU), `title`, `vendor`, `brand`, `product_type`
@@ -100,4 +106,5 @@ Op Windows lokaal: zet `PYTHONIOENCODING=utf-8` als de console de emoji's niet a
 | `WELLDIUM_BRANDS` | `Microbiome Labs,Invivo,Seeking Health` | merken in de feed |
 | `WELLDIUM_DISCOUNT` | `0.30` | practitioner-korting op de RRP |
 | `VAT_RATE` | `1.09` | BTW-factor (supplementen = 9%) |
+| `SHIP_COUNTRY` | `NL` | producten met verzendbeperking voor dit land worden overgeslagen |
 | `ALGOLIA_APP` / `ALGOLIA_KEY` / `ALGOLIA_INDEX` | ingebouwd | als de publieke key ooit rouleert |
