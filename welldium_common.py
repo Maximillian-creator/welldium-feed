@@ -29,6 +29,7 @@ Env-overrides (optioneel):
 
 import os
 import time
+from urllib.parse import urlsplit, urlunsplit, quote
 
 import requests
 
@@ -140,10 +141,28 @@ def _all_category_tags(hit):
     return sorted(tags)
 
 
+# De ruwe Azure-blob-URL's worden geserveerd als `application/octet-stream`,
+# waardoor Shopify ze weigert ("Mediaverwerking mislukt"). De Nuxt-image-proxy
+# van welldium.com (`/_ipx/...`) serveert dezelfde afbeelding mét de juiste
+# content-type (image/webp). Shopify haalt 'm bij import één keer op en zet 'm
+# daarna op z'n eigen CDN, dus de afhankelijkheid is alleen op importmoment.
+IPX_PREFIX = os.environ.get(
+    "IPX_PREFIX", "https://welldium.com/_ipx/w_1200&q_90/"
+)
+
+
+def _encode_blob(url):
+    """Percent-encode het pad van de blob-URL (spaties, haakjes) zodat de URL
+    geldig is. Bestaande %xx blijft intact (safe='%'), slashes blijven staan."""
+    parts = urlsplit(url)
+    path = quote(parts.path, safe="/%")
+    return urlunsplit((parts.scheme, parts.netloc, path, parts.query, parts.fragment))
+
+
 def _images(hit):
     imgs = hit.get("productImages") or []
     imgs = sorted(imgs, key=lambda x: x.get("sortOrder", 0))
-    return [i["url"] for i in imgs if i.get("url")]
+    return [IPX_PREFIX + _encode_blob(i["url"]) for i in imgs if i.get("url")]
 
 
 def _venlo_quantity(hit):
