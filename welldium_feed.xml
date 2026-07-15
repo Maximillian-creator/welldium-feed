@@ -2,6 +2,7 @@
 <products>
   <product>
     <sku>TMC-52374</sku>
+    <title>MegaQuinone K2-7 - 60 Capsules</title>
     <barcode/>
     <price>50.03</price>
     <cost>32.13</cost>
@@ -10,6 +11,7 @@
   </product>
   <product>
     <sku>TMC-53166</sku>
+    <title>Digest Mate - 120 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -18,14 +20,16 @@
   </product>
   <product>
     <sku>TMC-52866</sku>
+    <title>Mega Spore Biotic, UK - 60 Capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>3105</quantity>
+    <quantity>3103</quantity>
   </product>
   <product>
     <sku>TMC-52830</sku>
+    <title>Mega MycoBalance™ - 180 capsules</title>
     <barcode/>
     <price>64.11</price>
     <cost>41.17</cost>
@@ -34,6 +38,7 @@
   </product>
   <product>
     <sku>TMC-53266</sku>
+    <title>RestorFlora (formerly RestorFlora PD) - 21 Capsules</title>
     <barcode/>
     <price>18.31</price>
     <cost>11.76</cost>
@@ -42,6 +47,7 @@
   </product>
   <product>
     <sku>TMC-52766</sku>
+    <title>MegaMucosa - 180 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -50,6 +56,7 @@
   </product>
   <product>
     <sku>TMC-10030</sku>
+    <title>High Potency Bacillus Subtilis HU58™ - 60 Capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -58,6 +65,7 @@
   </product>
   <product>
     <sku>TMC-53146</sku>
+    <title>Pregnancy Support - 30 capsules</title>
     <barcode/>
     <price>45.79</price>
     <cost>29.41</cost>
@@ -66,6 +74,7 @@
   </product>
   <product>
     <sku>TMC-52876</sku>
+    <title>Mega Spore Biotic PLUS, UK - 60 Capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -74,14 +83,16 @@
   </product>
   <product>
     <sku>TMC-29435</sku>
+    <title>PyloGuard - 30 capsules</title>
     <barcode/>
     <price>50.37</price>
     <cost>32.35</cost>
     <available>true</available>
-    <quantity>313</quantity>
+    <quantity>312</quantity>
   </product>
   <product>
     <sku>ML-52736</sku>
+    <title>MegaPre™ DF - 180 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -90,6 +101,7 @@
   </product>
   <product>
     <sku>TMC-57711</sku>
+    <title>MegaPre™ - 180 Capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -98,6 +110,7 @@
   </product>
   <product>
     <sku>TMC-76196</sku>
+    <title>MegaGuard - 60 Capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -106,6 +119,7 @@
   </product>
   <product>
     <sku>TMC-52378</sku>
+    <title>RestorFlora™ - 60 capsules</title>
     <barcode/>
     <price>50.03</price>
     <cost>32.13</cost>
@@ -114,6 +128,7 @@
   </product>
   <product>
     <sku>TMC-53326</sku>
+    <title>Epic Defense - 30 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -122,6 +137,7 @@
   </product>
   <product>
     <sku>TMC-29465</sku>
+    <title>ZenBiome Sleep - 30 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -130,6 +146,7 @@
   </product>
   <product>
     <sku>TMC-52796</sku>
+    <title>ZenBiome Dual - 60 capsules</title>
     <barcode/>
     <price>70.22</price>
     <cost>45.09</cost>
@@ -138,6 +155,7 @@
   </product>
   <product>
     <sku>TMC-53136</sku>
+    <title>Vaginal Balance - 60 capsules</title>
     <barcode/>
     <price>41.21</price>
     <cost>26.47</cost>
@@ -146,6 +164,7 @@
   </product>
   <product>
     <sku>TMC-53346</sku>
+    <title>FODMate - 120 capsules</title>
     <barcode/>
     <price>62.27</price>
     <cost>39.99</cost>
@@ -154,6 +173,7 @@
   </product>
   <product>
     <sku>INVMIN60C</sku>
+    <title>Bio.Me Mind + Mood - 60 Capsules</title>
     <barcode/>
     <price>46.71</price>
     <cost>29.99</cost>
@@ -162,6 +182,7 @@
   </product>
   <product>
     <sku>INVESS90C</sku>
+    <title>Bio.Me Essential - 90 capsules</title>
     <barcode/>
     <price>50.01</price>
     <cost>32.12</cost>
@@ -170,6 +191,7 @@
   </product>
   <product>
     <sku>INVEND90C</sku>
+    <title>Bio.Clear Endotox LV - 90 Capsules</title>
     <barcode/>
     <price>43.41</price>
     <cost>27.88</cost>
@@ -178,6 +200,7 @@
   </product>
   <product>
     <sku>INVBAR90C</sku>
+    <title>Bio.Me Barrier - 90 Capsules</title>
     <barcode/>
     <price>40.11</price>
     <cost>25.76</cost>
@@ -186,6 +209,7 @@
   </product>
   <product>
     <sku>INVMUC90C</sku>
+    <title>Bio.Revive Mucin + - 90 Capsules</title>
     <barcode/>
     <price>54.40</price>
     <cost>34.94</cost>
@@ -194,6 +218,7 @@
   </product>
   <product>
     <sku>INVDIG90C</sku>
+    <title>Bio.Revive Digestive + - 90 Capsules</title>
     <barcode/>
     <price>37.91</price>
     <cost>24.35</cost>
@@ -202,6 +227,7 @@
   </product>
   <product>
     <sku>INVVIR90C</sku>
+    <title>Bio.Clear Virome - 90 Capsules</title>
     <barcode/>
     <price>41.21</price>
     <cost>26.47</cost>
@@ -210,6 +236,7 @@
   </product>
   <product>
     <sku>INVFEV60C</sku>
+    <title>Bio.Me Femme V - 60 Capsules</title>
     <barcode/>
     <price>50.01</price>
     <cost>32.12</cost>
@@ -218,6 +245,7 @@
   </product>
   <product>
     <sku>INVSCB60C</sku>
+    <title>Bio.Me Saccharomyces Boulardii - 60 capsules</title>
     <barcode/>
     <price>30.23</price>
     <cost>19.41</cost>
@@ -226,6 +254,7 @@
   </product>
   <product>
     <sku>INVKIN90C</sku>
+    <title>Bio.Revive Kinetic - 90 Capsules</title>
     <barcode/>
     <price>37.91</price>
     <cost>24.35</cost>
@@ -234,6 +263,7 @@
   </product>
   <product>
     <sku>INVMIC60C</sku>
+    <title>Bio.Clear Microbia - 60 Capsules</title>
     <barcode/>
     <price>47.81</price>
     <cost>30.70</cost>
@@ -242,14 +272,16 @@
   </product>
   <product>
     <sku>INVORA60G</sku>
+    <title>Bio.Me Oral - 60 g</title>
     <barcode/>
     <price>36.82</price>
     <cost>23.65</cost>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
   </product>
   <product>
     <sku>INVFEM90G</sku>
+    <title>Bio.Me Femme UT - 90 g</title>
     <barcode/>
     <price>48.91</price>
     <cost>31.41</cost>
@@ -258,6 +290,7 @@
   </product>
   <product>
     <sku>INVBAR120G</sku>
+    <title>Bio.Me Barrier - 120 g</title>
     <barcode/>
     <price>59.90</price>
     <cost>38.46</cost>
@@ -266,14 +299,16 @@
   </product>
   <product>
     <sku>INVPHGP150G</sku>
+    <title>Bio.Me Prebio PHGG - 150 g powder (refill-pouch)</title>
     <barcode/>
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>43</quantity>
+    <quantity>42</quantity>
   </product>
   <product>
     <sku>INVGOS90G</sku>
+    <title>Bio.Me Prebio GOS - 90 g</title>
     <barcode/>
     <price>29.12</price>
     <cost>18.70</cost>
@@ -282,6 +317,7 @@
   </product>
   <product>
     <sku>INVIBD60C</sku>
+    <title>Bio.Me IB+ - 60 Capsules</title>
     <barcode/>
     <price>32.42</price>
     <cost>20.82</cost>
@@ -290,6 +326,7 @@
   </product>
   <product>
     <sku>INVOES60C</sku>
+    <title>Bio.Clear Oestro - 60 Capsules</title>
     <barcode/>
     <price>57.69</price>
     <cost>37.05</cost>
@@ -298,6 +335,7 @@
   </product>
   <product>
     <sku>INVBIM30C</sku>
+    <title>Bio.Revive Beta Immune + - 30 Capsules</title>
     <barcode/>
     <price>30.23</price>
     <cost>19.41</cost>
@@ -306,6 +344,7 @@
   </product>
   <product>
     <sku>INVPHGT150G</sku>
+    <title>Bio.Me Prebio PHGG - 150 g powder</title>
     <barcode/>
     <price>30.23</price>
     <cost>19.41</cost>
@@ -314,6 +353,7 @@
   </product>
   <product>
     <sku>DIM-I3C-CAP</sku>
+    <title>DIM + I3C - 60 Capsules</title>
     <barcode/>
     <price>47.72</price>
     <cost>30.65</cost>
@@ -322,6 +362,7 @@
   </product>
   <product>
     <sku>COQ-CAP</sku>
+    <title>CoQ10 - 60 capsules</title>
     <barcode/>
     <price>65.48</price>
     <cost>42.05</cost>
@@ -330,6 +371,7 @@
   </product>
   <product>
     <sku>PHO-SER-CAP</sku>
+    <title>Phosphatidyl Serine - 60 Capsules</title>
     <barcode/>
     <price>54.38</price>
     <cost>34.92</cost>
@@ -338,6 +380,7 @@
   </product>
   <product>
     <sku>TRAC-MIN-CAP</sku>
+    <title>Trace Minerals Complex - 30 capsules</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -346,6 +389,7 @@
   </product>
   <product>
     <sku>MULTI-ONE-MF-CAP</sku>
+    <title>Multivitamin One MF - 45 Capsules</title>
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
@@ -354,6 +398,7 @@
   </product>
   <product>
     <sku>OP-FOC-CAP</sku>
+    <title>Optimal Focus - 60 Capsules</title>
     <barcode/>
     <price>55.49</price>
     <cost>35.64</cost>
@@ -362,6 +407,7 @@
   </product>
   <product>
     <sku>PB-FIDO-CAP</sku>
+    <title>ProBiota Bifidobacterium - 60 capsules</title>
     <barcode/>
     <price>54.38</price>
     <cost>34.92</cost>
@@ -370,6 +416,7 @@
   </product>
   <product>
     <sku>PB-HIS-CAP</sku>
+    <title>ProBiota HistaminX - 60 capsules</title>
     <barcode/>
     <price>46.61</price>
     <cost>29.93</cost>
@@ -378,6 +425,7 @@
   </product>
   <product>
     <sku>GAL-NUT-CAP</sku>
+    <title>Bile Nutrients - 120 Capsules</title>
     <barcode/>
     <price>46.61</price>
     <cost>29.93</cost>
@@ -386,6 +434,7 @@
   </product>
   <product>
     <sku>NAC-CAP</sku>
+    <title>NAC (N-Acetyl-L-Cysteine) - 90 Capsules</title>
     <barcode/>
     <price>26.63</price>
     <cost>17.10</cost>
@@ -394,6 +443,7 @@
   </product>
   <product>
     <sku>TRAC-MIN-II-CAP</sku>
+    <title>Trace Minerals Complex II - 30 Capsules</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -402,6 +452,7 @@
   </product>
   <product>
     <sku>SERO-NUT-CAP</sku>
+    <title>Serotonin Nutrients - 60 capsules</title>
     <barcode/>
     <price>52.16</price>
     <cost>33.49</cost>
@@ -410,6 +461,7 @@
   </product>
   <product>
     <sku>ZINC-CARN-CAP</sku>
+    <title>Zinc Carnosine - 60 Capsules</title>
     <barcode/>
     <price>47.72</price>
     <cost>30.65</cost>
@@ -418,6 +470,7 @@
   </product>
   <product>
     <sku>OP-MULTI-ONE-CAP</sku>
+    <title>Multivitamin One - 45 capsules</title>
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
@@ -426,6 +479,7 @@
   </product>
   <product>
     <sku>GI-CAP</sku>
+    <title>Gut Nutrients - 150 capsules</title>
     <barcode/>
     <price>55.49</price>
     <cost>35.64</cost>
@@ -434,6 +488,7 @@
   </product>
   <product>
     <sku>BCOMMF-CAP</sku>
+    <title>B Complex Methyl-Free - 100 Capsules</title>
     <barcode/>
     <price>35.51</price>
     <cost>22.81</cost>
@@ -442,6 +497,7 @@
   </product>
   <product>
     <sku>HISTA-X-CAP</sku>
+    <title>HistaminX - 60 Capsules</title>
     <barcode/>
     <price>52.16</price>
     <cost>33.49</cost>
@@ -450,6 +506,7 @@
   </product>
   <product>
     <sku>HISTA-90-CAP</sku>
+    <title>DAO Enzyme - 90 Capsules (formerly Histamine Digest™) - 90 capsules</title>
     <barcode/>
     <price>99.88</price>
     <cost>64.14</cost>
@@ -458,6 +515,7 @@
   </product>
   <product>
     <sku>HIS-DIG-CAP</sku>
+    <title>DAO Enzyme (formerly Histamine Digest™) - 30 capsules</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
@@ -466,6 +524,7 @@
   </product>
   <product>
     <sku>HOMO-PLUS-CAP</sku>
+    <title>Homocysteine Nutrients - 60 capsules</title>
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
@@ -474,6 +533,7 @@
   </product>
   <product>
     <sku>MOLY-CAP</sku>
+    <title>Molybdenum - 90 capsules</title>
     <barcode/>
     <price>21.08</price>
     <cost>13.54</cost>
@@ -482,6 +542,7 @@
   </product>
   <product>
     <sku>OP-MAN-CAP</sku>
+    <title>Optimal Man - 120 Capsules</title>
     <barcode/>
     <price>77.68</price>
     <cost>49.89</cost>
@@ -490,6 +551,7 @@
   </product>
   <product>
     <sku>LIV-NUT-CAP</sku>
+    <title>Liver Nutrients - 60 Capsules</title>
     <barcode/>
     <price>32.19</price>
     <cost>20.67</cost>
@@ -498,6 +560,7 @@
   </product>
   <product>
     <sku>BCOM-CAP</sku>
+    <title>B Complex Plus - 100 Capsules</title>
     <barcode/>
     <price>35.51</price>
     <cost>22.81</cost>
@@ -506,6 +569,7 @@
   </product>
   <product>
     <sku>OXB-125-CAP</sku>
+    <title>Ox Bile - 120 capsules</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -514,6 +578,7 @@
   </product>
   <product>
     <sku>BMINUS-CAP</sku>
+    <title>B Minus - 100 capsules</title>
     <barcode/>
     <price>35.51</price>
     <cost>22.81</cost>
@@ -522,6 +587,7 @@
   </product>
   <product>
     <sku>MULTI-SENS-CAP</sku>
+    <title>Multivitamin One Sensitive - 45 capsules</title>
     <barcode/>
     <price>52.22</price>
     <cost>33.54</cost>
@@ -530,22 +596,25 @@
   </product>
   <product>
     <sku>SAC-BOUL-CAP</sku>
+    <title>Saccharomyces Boulardii - 60 Capsules</title>
     <barcode/>
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>137</quantity>
+    <quantity>136</quantity>
   </product>
   <product>
     <sku>LITH-ORO-CAP</sku>
+    <title>Lithium Orotate - 100 capsules</title>
     <barcode/>
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>391</quantity>
+    <quantity>388</quantity>
   </product>
   <product>
     <sku>ASH-CAP</sku>
+    <title>Ashwagandha - 60 capsules</title>
     <barcode/>
     <price>29.96</price>
     <cost>19.24</cost>
@@ -554,6 +623,7 @@
   </product>
   <product>
     <sku>NIACIN-CAP</sku>
+    <title>Niacin - 100 Capsules</title>
     <barcode/>
     <price>24.42</price>
     <cost>15.68</cost>
@@ -562,6 +632,7 @@
   </product>
   <product>
     <sku>MAGN-CAP</sku>
+    <title>Optimal Magnesium - 90 capsules</title>
     <barcode/>
     <price>24.42</price>
     <cost>15.68</cost>
@@ -570,6 +641,7 @@
   </product>
   <product>
     <sku>RIBO-FLAV-CAP</sku>
+    <title>Riboflavin - 60 Capsules</title>
     <barcode/>
     <price>27.74</price>
     <cost>17.81</cost>
@@ -578,14 +650,16 @@
   </product>
   <product>
     <sku>ACETYL-CAP</sku>
+    <title>Acetyl-L-Carnitine - 90 capsules</title>
     <barcode/>
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>47</quantity>
+    <quantity>43</quantity>
   </product>
   <product>
     <sku>OP-FISH-SG</sku>
+    <title>Fish Oil - 60 softgels</title>
     <barcode/>
     <price>49.93</price>
     <cost>32.07</cost>
@@ -594,14 +668,16 @@
   </product>
   <product>
     <sku>ELYTE-O-POW</sku>
+    <title>Optimal Electrolyte Orange - 190.8 g powder</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
   </product>
   <product>
     <sku>MAG-MAL-POW</sku>
+    <title>Magnesium Malate Powder - 250 g powder</title>
     <barcode/>
     <price>25.53</price>
     <cost>16.39</cost>
@@ -610,6 +686,7 @@
   </product>
   <product>
     <sku>ELYTE-B-POW</sku>
+    <title>Optimal Electrolyte Berry - 192 g powder</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
@@ -618,6 +695,7 @@
   </product>
   <product>
     <sku>ELYTE-U-POW</sku>
+    <title>Optimal Electrolyte Unflavored - 168.6 g powder</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
@@ -626,6 +704,7 @@
   </product>
   <product>
     <sku>ELYTE-L-POW</sku>
+    <title>Optimal Electrolyte Lemonade - 190.8 g powder</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
@@ -634,6 +713,7 @@
   </product>
   <product>
     <sku>GI-PLUS-P-POW</sku>
+    <title>Gut Nutrients - 232 g powder</title>
     <barcode/>
     <price>75.46</price>
     <cost>48.46</cost>
@@ -642,6 +722,7 @@
   </product>
   <product>
     <sku>MAG-GLY-POW</sku>
+    <title>Magnesium Glycinate - 187.5 g powder</title>
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
@@ -650,6 +731,7 @@
   </product>
   <product>
     <sku>IM-INT-LIQ</sku>
+    <title>Immune Intensive - 90 mL liquid</title>
     <barcode/>
     <price>35.51</price>
     <cost>22.81</cost>
@@ -658,6 +740,7 @@
   </product>
   <product>
     <sku>VITA-DK-K2-LIQ</sku>
+    <title>Vitamin D3 + K2 Drops - 900 Servings</title>
     <barcode/>
     <price>32.19</price>
     <cost>20.67</cost>
@@ -666,6 +749,7 @@
   </product>
   <product>
     <sku>VITA-C-LIPO</sku>
+    <title>Liposomal Vitamin C - 150 mL liposomal</title>
     <barcode/>
     <price>42.17</price>
     <cost>27.08</cost>
@@ -674,6 +758,7 @@
   </product>
   <product>
     <sku>MAG-MAL-TAB</sku>
+    <title>Magnesium Chewable - 100 tablets</title>
     <barcode/>
     <price>25.53</price>
     <cost>16.39</cost>
@@ -682,6 +767,7 @@
   </product>
   <product>
     <sku>KIDS-MULTI-TAB</sku>
+    <title>Kids Multivitamin Chewable - 60 chewables</title>
     <barcode/>
     <price>33.29</price>
     <cost>21.38</cost>
@@ -690,6 +776,7 @@
   </product>
   <product>
     <sku>OP-MULTI-TAB</sku>
+    <title>Multivitamin One Chewable - 30 tablets</title>
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
@@ -698,6 +785,7 @@
   </product>
   <product>
     <sku>AB12L5-LOZ</sku>
+    <title>Methyl B12 with L-Methylfolate - 60 lozenges</title>
     <barcode/>
     <price>29.96</price>
     <cost>19.24</cost>
@@ -706,6 +794,7 @@
   </product>
   <product>
     <sku>HYD-B12-LOZ</sku>
+    <title>Hydroxo B12 - 60 lozenges</title>
     <barcode/>
     <price>26.63</price>
     <cost>17.10</cost>
@@ -714,6 +803,7 @@
   </product>
   <product>
     <sku>FOL-ACD-LOZ</sku>
+    <title>Folinic Acid - 60 lozenges</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -722,6 +812,7 @@
   </product>
   <product>
     <sku>AB12LD-LOZ</sku>
+    <title>Methyl B12 1000 - 60 lozenges</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -730,6 +821,7 @@
   </product>
   <product>
     <sku>BRAIN-NUT-TAB</sku>
+    <title>Brain Nutrients - 60 lozenges</title>
     <barcode/>
     <price>55.49</price>
     <cost>35.64</cost>
@@ -738,6 +830,7 @@
   </product>
   <product>
     <sku>HYA-B12-LOZ</sku>
+    <title>Hydroxo-Adeno B12 - 60 lozenges</title>
     <barcode/>
     <price>26.63</price>
     <cost>17.10</cost>
@@ -746,6 +839,7 @@
   </product>
   <product>
     <sku>ZINC-LOZ</sku>
+    <title>Zinc Lozenge - 60 lozenges</title>
     <barcode/>
     <price>21.08</price>
     <cost>13.54</cost>
@@ -754,6 +848,7 @@
   </product>
   <product>
     <sku>HB12FA-LOZ</sku>
+    <title>Hydroxo B12 with Folinic Acid - 60 lozenges</title>
     <barcode/>
     <price>29.96</price>
     <cost>19.24</cost>
@@ -762,6 +857,7 @@
   </product>
   <product>
     <sku>GLUT-PLUS-LOZ</sku>
+    <title>Glutathione Plus Lozenge - 60 lozenges</title>
     <barcode/>
     <price>55.49</price>
     <cost>35.64</cost>
@@ -770,6 +866,7 @@
   </product>
   <product>
     <sku>IRON-TAB</sku>
+    <title>Iron - 60 chewables</title>
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
@@ -778,6 +875,7 @@
   </product>
   <product>
     <sku>ADR-NUT-CAP</sku>
+    <title>Stress Nutrients - 90 capsules</title>
     <barcode/>
     <price>42.17</price>
     <cost>27.08</cost>
@@ -786,6 +884,7 @@
   </product>
   <product>
     <sku>OP-PC-SG</sku>
+    <title>Optimal PC - 90 softgels</title>
     <barcode/>
     <price>52.16</price>
     <cost>33.49</cost>
@@ -794,6 +893,7 @@
   </product>
   <product>
     <sku>VITA-C-PLUS-POW</sku>
+    <title>Vitamin C Plus - 155.1 g powder</title>
     <barcode/>
     <price>44.38</price>
     <cost>28.50</cost>
@@ -802,6 +902,7 @@
   </product>
   <product>
     <sku>PWO-NUT-POW</sku>
+    <title>Pre-Workout Nutrients - 302.4 g</title>
     <barcode/>
     <price>69.63</price>
     <cost>44.72</cost>
@@ -810,6 +911,7 @@
   </product>
   <product>
     <sku>ENG-NUT-LOZ</sku>
+    <title>Energy Nutrients - 30 lozenges</title>
     <barcode/>
     <price>33.29</price>
     <cost>21.38</cost>
