@@ -64,10 +64,16 @@ verzonden (Algolia-veld `restrictedCountries`, bv. `["NL"]`). Die worden
 
 Per `<product>`: `handle` (= SKU), `title`, `vendor`, `brand`, `product_type`
 (diepste categorie), `tags` (categorie-hiërarchie), `sku`, `barcode` (leeg),
-`price`, `cost`, `available`, `quantity`, `description` (rijke NL-tekst: intro +
-dosering + voedingswaarde + allergenen + waarschuwingen + bewaren),
-`nutritional_info`, `delivery_format`, `servings`, een `<images>`-blok en
+`price`, `cost`, `available`, `quantity`, `description` en een `<images>`-blok +
 `image_links` (komma-gescheiden).
+
+Het **`description`-veld bevat álle productinfo** in één blok (zodat je alleen
+dit naar Body HTML hoeft te mappen): productvoordelen, kenmerken (Vegan/
+hypoallergeen), ingrediënten (supplement facts — uit het curated NL-veld, of
+opgebouwd uit het gestructureerde `productIngredients` als dat leeg is), overige
+ingrediënten, dosering, allergenen, waarschuwingen, bewaren en vorm/porties.
+De losse velden `nutritional_info`, `delivery_format` en `servings` blijven óók
+apart beschikbaar mocht je ze los willen mappen.
 
 ## Stock Sync mapping (Add products)
 
