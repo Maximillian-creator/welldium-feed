@@ -1,0 +1,35 @@
+name: Welldium Feed Updater
+
+on:
+  schedule:
+    # 2x per dag (06:00 en 18:00 UTC) voor prijs + voorraad van bestaande producten.
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+
+      - name: Scraper draaien
+        run: python scraper.py
+
+      - name: XML committen en pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add welldium_feed.xml
+          git diff --staged --quiet || git commit -m "🔄 Feed bijgewerkt: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push
