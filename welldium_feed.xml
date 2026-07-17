@@ -55,7 +55,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>3070</quantity>
+    <quantity>3067</quantity>
     <description>&lt;p&gt;MegaSporeBiotic™ is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan klinisch is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, conditioneert de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ heeft geen koeling nodig en behoudt zijn werkzaamheid tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;MegaSporeBiotic is een probiotische mix van 4 Bacillus-sporen waarvan klinisch is aangetoond dat ze een gezonde darmbarrièrefunctie en algehele immuniteit behouden. De bifasische levenscyclus van de Bacillus-sporen stelt ze in staat om inactief te blijven in barre omgevingen totdat ze meer favuorabele omgevingen bereiken, zoals het menselijke maagdarmkanaal. Eenmaal in de dikke darm kunnen deze slapende sporen veranderen in hun actieve, vegetatieve vormen en beginnen te koloniseren in de darm. Deze unieke probiotische mix is bedoeld om de darm te reconditioneren in plaats van opnieuw te zaaien met probiotische stammen die de spijsvertering niet kunnen overleven of de darm niet kunnen koloniseren. MegaSporeBiotic is snel uitgegroeid tot een favoriet in het huishouden onder zowel gezondheidswerkers als consumenten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerde mix 152 mg
@@ -411,6 +411,25 @@ Niet gebruiken als de veiligheidsverzegeling is verbroken of ontbreekt&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule&lt;/p&gt;</description>
   </product>
   <product>
+    <sku>TMC-53346</sku>
+    <title>FODMate - 120 capsules</title>
+    <barcode/>
+    <price>62.27</price>
+    <cost>39.99</cost>
+    <available>true</available>
+    <quantity>2</quantity>
+    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
+Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
+  </product>
+  <product>
     <sku>TMC-53136</sku>
     <title>Vaginal Balance - 60 capsules</title>
     <barcode/>
@@ -428,25 +447,6 @@ Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
 De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-  </product>
-  <product>
-    <sku>TMC-53346</sku>
-    <title>FODMate - 120 capsules</title>
-    <barcode/>
-    <price>62.27</price>
-    <cost>39.99</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
-Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
   </product>
   <product>
     <sku>INVMIN60C</sku>
@@ -690,7 +690,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>33</quantity>
+    <quantity>32</quantity>
     <description>&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel die afkomstig is van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij mensen met darmklachten, waaronder PDS en SIBO.
 
 Klinisch wordt PHGG gebruikt als:
@@ -828,7 +828,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja, Glu
     <price>65.48</price>
     <cost>42.05</cost>
     <available>true</available>
-    <quantity>37</quantity>
+    <quantity>36</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de normale cellulaire energieproductie
@@ -858,7 +858,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>45</quantity>
+    <quantity>43</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de cognitieve gezondheid
@@ -884,7 +884,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>62</quantity>
+    <quantity>61</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een normale vochtbalans
@@ -1081,7 +1081,7 @@ Vrij van: Melk, Ei, Vis, Schelpdieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>44</quantity>
+    <quantity>42</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van het gebruik en de balans van mineralen
@@ -1317,7 +1317,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>99.88</price>
     <cost>64.14</cost>
     <available>true</available>
-    <quantity>41</quantity>
+    <quantity>40</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1673,7 +1673,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>365</quantity>
+    <quantity>353</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van cognitieve gezondheid
@@ -1757,7 +1757,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>94</quantity>
+    <quantity>92</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -1783,7 +1783,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>27.74</price>
     <cost>17.81</cost>
     <available>true</available>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezonde groei en ontwikkeling
