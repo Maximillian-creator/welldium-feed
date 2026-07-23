@@ -148,7 +148,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>39</quantity>
+    <quantity>38</quantity>
     <description>&lt;p&gt;HU58™ is een krachtige dosis van Bacillus subtilis HU58 geformuleerd om de werkzaamheid van MegaSporeBiotic™ te verbeteren. HU58™ kan meer dan 12 gerichte antibiotica in de darmen produceren, waardoor het bijzonder effectief is bij het in evenwicht brengen van de darmmicroflora.&lt;/p&gt;
 &lt;p&gt;Wat is High Potentency Bacillus Subtilis? HU58 is een hoogpotente dosis van Bacillus subtilis HU58, samengesteld om de effectiviteit van MegaSporeBiotic te vergroten. Hoogpotentie Bacillus Subtilis wordt aanbevolen bij frequente reizen. Voordelen van High Potency Bacillus Subtilis zijn onder andere 100% overlevingskans in het spijsverteringskanaal, een toename van 40% in de productie van korteketenvetzuren (SCFA), behoud van een gezonde spijsvertering, ondersteuning van een gezonde immuunfunctie en effectiviteit tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Bacillus subtilis, HU58 50 mg 10 miljard kve&lt;/p&gt;
@@ -186,7 +186,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>1682</quantity>
+    <quantity>1676</quantity>
     <description>&lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerd mengsel 100 mg
@@ -413,25 +413,6 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
   </product>
   <product>
-    <sku>TMC-53346</sku>
-    <title>FODMate - 120 capsules</title>
-    <barcode/>
-    <price>62.27</price>
-    <cost>39.99</cost>
-    <available>true</available>
-    <quantity>1</quantity>
-    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
-Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
-  </product>
-  <product>
     <sku>TMC-53136</sku>
     <title>Vaginal Balance - 60 capsules</title>
     <barcode/>
@@ -449,6 +430,25 @@ Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
 De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+  </product>
+  <product>
+    <sku>TMC-53346</sku>
+    <title>FODMate - 120 capsules</title>
+    <barcode/>
+    <price>62.27</price>
+    <cost>39.99</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
+Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
   </product>
   <product>
     <sku>INVMIN60C</sku>
@@ -596,7 +596,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>31</quantity>
+    <quantity>30</quantity>
     <description>&lt;p&gt;S. boulardii is een niet-pathogene gist met probiotische activiteit die de gastro-intestinale gezondheid en de immuunfunctie ondersteunt.&lt;/p&gt;
 &lt;p&gt;Bio.Me Saccharomyces Boulardii bevat Saccharomyces boulardii van klinische kwaliteit voor het gastro-intestinale microbioom. Saccharomyces boulardii is een niet-pathogene gist die het gastro-intestinale microbioom ondersteunt en waarvan in onderzoeken is aangetoond dat het het herstel van het evenwicht van het darmmicrobioom ondersteunt, met name na antibioticagebruik. Bio.Me Saccharomyces Boulardii kan het gastro-intestinale slijmvlies beschermen en helpen bij de productie van secretoir IgA - onderdeel van onze aangeboren immuunrespons.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
@@ -692,7 +692,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>16</quantity>
+    <quantity>12</quantity>
     <description>&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel die afkomstig is van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij mensen met darmklachten, waaronder PDS en SIBO.
 
 Klinisch wordt PHGG gebruikt als:
@@ -798,7 +798,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>62</quantity>
+    <quantity>61</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteunende mix van natuurlijke indoolverbindingen
@@ -860,7 +860,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>37</quantity>
+    <quantity>36</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de cognitieve gezondheid
@@ -886,7 +886,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>59</quantity>
+    <quantity>54</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een normale vochtbalans
@@ -970,7 +970,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -998,7 +998,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>113</quantity>
+    <quantity>111</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezonde reactie van de darm op ingenomen histamine
@@ -1145,7 +1145,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>85</quantity>
+    <quantity>84</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezond darmslijmvlies
@@ -1172,7 +1172,7 @@ Zink is een belangrijk mineraal dat kan helpen bij het ondersteunen van veel enz
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>57</quantity>
+    <quantity>56</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Handige formule van één per dag
@@ -1319,7 +1319,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>99.88</price>
     <cost>64.14</cost>
     <available>true</available>
-    <quantity>33</quantity>
+    <quantity>31</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1522,7 +1522,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>35.51</price>
     <cost>22.81</cost>
     <available>true</available>
-    <quantity>23</quantity>
+    <quantity>22</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Bevat actieve vormen van B-vitamines plus L-5-MTHF
@@ -1645,7 +1645,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>119</quantity>
+    <quantity>117</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Veerkrachtige &amp;quot;probiotische&amp;quot; gist heeft geen koeling nodig
@@ -1675,7 +1675,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>320</quantity>
+    <quantity>312</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van cognitieve gezondheid
@@ -1759,7 +1759,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>87</quantity>
+    <quantity>81</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -2075,7 +2075,7 @@ Immune Intensive voldoet aan of overtreft de GMP-kwaliteitsnormen.&lt;/p&gt;
     <price>32.19</price>
     <cost>20.67</cost>
     <available>true</available>
-    <quantity>27</quantity>
+    <quantity>26</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezondheid van de botten en een gezond botmetabolisme als onderdeel van een gezond dieet dat rijk is aan calcium
