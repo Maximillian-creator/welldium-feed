@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
   <product>
+    <handle>TMC-53136</handle>
+    <title>Vaginal Balance - 60 capsules</title>
+    <vendor>Microbiome Labs</vendor>
+    <brand>Microbiome Labs</brand>
+    <product_type>Other</product_type>
+    <tags>Demographics, Other, Women</tags>
+    <sku>TMC-53136</sku>
+    <barcode/>
+    <price>41.21</price>
+    <cost>26.47</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Vaginal Balance is geformuleerd met Lactobacillus probiotica, de meest voorkomende bacteriesoort die in een gezonde vagina wordt aangetroffen, en cranberrypoeder. Het handhaaft effectief gezonde darm- en vaginale microbiomen en biedt unieke 4-in-één ondersteuning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Cranberry fruit powder (Vaccinium macrocarpon) – 500 mg&lt;br&gt;Hypromellose&lt;br&gt;Lactobacillus crispatus&lt;br&gt;Proprietary Probiotic Blend&lt;br&gt;LA-5® Lactobacillus acidophilus&lt;br&gt;Water&lt;br&gt;Lactobacillus rhamnosus&lt;br&gt;Rice maltodextrin&lt;br&gt;Lactobacillus gasseri&lt;br&gt;Capsule&lt;br&gt;Lactobacillus jensenii&lt;br&gt;Silica&lt;br&gt;Magnesium stearate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 2 capsules of zoals door een therapeut voorgeschreven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Cranberry fruit powder (Vaccinium macrocarpon) – 500 mg
+Hypromellose
+Lactobacillus crispatus
+Proprietary Probiotic Blend
+LA-5® Lactobacillus acidophilus
+Water
+Lactobacillus rhamnosus
+Rice maltodextrin
+Lactobacillus gasseri
+Capsule
+Lactobacillus jensenii
+Silica
+Magnesium stearate</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SFP.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SuggestedUse.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SFP.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SuggestedUse.webp</image_links>
+  </product>
+  <product>
     <handle>TMC-52374</handle>
     <title>MegaQuinone K2-7 - 60 Capsules</title>
     <vendor>Microbiome Labs</vendor>
@@ -12,7 +63,7 @@
     <price>50.03</price>
     <cost>32.13</cost>
     <available>true</available>
-    <quantity>90</quantity>
+    <quantity>89</quantity>
     <description>&lt;p&gt;MegaQuinone K2-7 is een hooggedoseerde, 100% sojavrije formulering van natuurlijke vitamine K2 (MK-7) geformuleerd voor een optimale gezondheid van botten, zenuwen en hart. Deze formule bevat 160 mcg vitamine K2 met vitamine K1 en gechelateerde mineralen voor absorptie.&lt;/p&gt;
 &lt;p&gt;MegaQuinone is een hoogdose, 100% sojavrije formulering van natuurlijke vitamine K2 (MK-7) die is samengesteld voor optimale gezondheid van bot, zenuwen en hart. Deze formule bevat 160 mcg vitamine K2, samen met vitamine K1 en gecheleerde mineralen voor opname. 
 
@@ -54,6 +105,46 @@ Zink (als zinkbisglycinaat) 15 mg 136% (RI)</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/e579669a-bd96-40cc-3545-08db0a910fd1/MegaQuinone%20K2-7.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/e579669a-bd96-40cc-3545-08db0a910fd1/MegaQuinone%20K2-7_back.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/e579669a-bd96-40cc-3545-08db0a910fd1/MegaQuinone%20K2-7_back_1.webp</image_links>
   </product>
   <product>
+    <handle>TMC-52796</handle>
+    <title>ZenBiome Dual - 60 capsules</title>
+    <vendor>Microbiome Labs</vendor>
+    <brand>Microbiome Labs</brand>
+    <product_type/>
+    <tags/>
+    <sku>TMC-52796</sku>
+    <barcode/>
+    <price>70.22</price>
+    <cost>45.09</cost>
+    <available>true</available>
+    <quantity>67</quantity>
+    <description>&lt;p&gt;Zenbiome™ Dual is een geavanceerde, gerichte probiotische formulering die twee sterk onderzochte, klinisch gevalideerde stammen van Bifidobacterium longum combineert. Deze precieze synergetische mix levert 10 miljard CFU per portie om een sterke gastro-intestinale homeostase en de darm-hersenas te ondersteunen. Deze specifieke stammen, geformuleerd voor maximale levensvatbaarheid, zorgen voor optimale kolonisatie en continu 24-uurs onderhoud van het darmmicrobioom.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Milk Free, Soy Free&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary probiotic blend – 97.5 mg&lt;br&gt;Bifidobacterium longum 1714™&lt;br&gt;Bifidobacterium longum 35624®&lt;br&gt;Capsule (hydroxypropyl methylcellulose)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 2 capsules bij een maaltijd of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicatie gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
+Gebruik het niet als de beveiligingszegel is verbroken.
+Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Proprietary probiotic blend – 97.5 mg
+Bifidobacterium longum 1714™
+Bifidobacterium longum 35624®
+Capsule (hydroxypropyl methylcellulose)
+Cellulose
+Magnesium stearate</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/dd427d29-d630-4e2f-1b1f-08de8356730f/ZenBiomeDual.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/dd427d29-d630-4e2f-1b1f-08de8356730f/ZenBiomeDual.webp</image_links>
+  </product>
+  <product>
     <handle>TMC-53166</handle>
     <title>Digest Mate - 120 capsules</title>
     <vendor>Microbiome Labs</vendor>
@@ -65,7 +156,7 @@ Zink (als zinkbisglycinaat) 15 mg 136% (RI)</nutritional_info>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>69</quantity>
+    <quantity>68</quantity>
     <description>&lt;p&gt;DigestMate™ is een geavanceerd, zeer biobeschikbaar bifasisch complex dat een breed spectrum van 14 specifieke spijsverteringsenzymen combineert met veerkrachtige sporen-gebaseerde probiotica. Deze synergetische formulering faciliteert de uitgebreide enzymatische afbraak van macronutriënten—waaronder koolhydraten, eiwitten en lipiden—tot gemakkelijk opnamebare biochemische bestanddelen. Door robuuste microbiële stammen te introduceren naast gerichte enzymatische katalysatoren, ondersteunt het zowel de intraluminale vertering als het continu onderhoud van een evenwichtige darmmicroflora.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary enzyme blend – 500 mg&lt;br&gt;Proprietary probiotic blend – 70 mg&lt;br&gt;Vegetable capsule (hypromellose, water)&lt;br&gt;Microcrystalline cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 2 capsules bij de maaltijden, of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
@@ -108,7 +199,7 @@ Silicon dioxide</nutritional_info>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>2864</quantity>
+    <quantity>3093</quantity>
     <description>&lt;p&gt;MegaSporeBiotic™ is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan klinisch is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, conditioneert de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ heeft geen koeling nodig en behoudt zijn werkzaamheid tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;MegaSporeBiotic is een probiotische mix van 4 Bacillus-sporen waarvan klinisch is aangetoond dat ze een gezonde darmbarrièrefunctie en algehele immuniteit behouden. De bifasische levenscyclus van de Bacillus-sporen stelt ze in staat om inactief te blijven in barre omgevingen totdat ze meer favuorabele omgevingen bereiken, zoals het menselijke maagdarmkanaal. Eenmaal in de dikke darm kunnen deze slapende sporen veranderen in hun actieve, vegetatieve vormen en beginnen te koloniseren in de darm. Deze unieke probiotische mix is bedoeld om de darm te reconditioneren in plaats van opnieuw te zaaien met probiotische stammen die de spijsvertering niet kunnen overleven of de darm niet kunnen koloniseren. MegaSporeBiotic is snel uitgegroeid tot een favoriet in het huishouden onder zowel gezondheidswerkers als consumenten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerde mix 152 mg
@@ -235,7 +326,7 @@ Vegetable capsule (hypromellose and water)</nutritional_info>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>135</quantity>
+    <quantity>564</quantity>
     <description>&lt;p&gt;MegaMucosa is het eerste complete mucosale ondersteunende supplement in zijn soort, geformuleerd om een gezonde slijmvliesbarrière opnieuw op te bouwen. MegaMucosa bevat ook een mix van vijf specifiek geselecteerde aminozuren en bioflavonoïden waarvan klinisch is aangetoond dat ze de microbiële diversiteit ondersteunen en barrièredisfunctie verlichten, ook wel bekend als lekkende darm.&lt;/p&gt;
 &lt;p&gt;MegaMucosa is het eerste complete mucosale ondersteuningssupplement in zijn soort, geformuleerd om een gezonde slijmvliesbarrière op te bouwen, microbiële diversiteit te ONDERSTEUNEN en barrièredisfunctie te VERLICHTEN, ook wel bekend als lekkende darm.
 
@@ -261,6 +352,53 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/814f1876-355e-40f2-4f7b-08da78a4a19b/MBL-MegaMucosa-Bottle-UK-FRONT.webp</image_links>
   </product>
   <product>
+    <handle>TMC-29465</handle>
+    <title>ZenBiome Sleep - 30 capsules</title>
+    <vendor>Microbiome Labs</vendor>
+    <brand>Microbiome Labs</brand>
+    <product_type>Probiotics</product_type>
+    <tags>Gastrointestinal, Neuro Support, Probiotics, Reinoculate, Sleep, Sleep Complex</tags>
+    <sku>TMC-29465</sku>
+    <barcode/>
+    <price>62.27</price>
+    <cost>39.99</cost>
+    <available>true</available>
+    <quantity>59</quantity>
+    <description>&lt;p&gt;ZenBiome Sleep™ is geformuleerd om cliënten te helpen omgaan met incidentele slapeloosheid, maar kan ook helpen bij het ondersteunen van gevoelens van ontspanning en verminderde spanning.&lt;/p&gt;
+&lt;p&gt;Onze nieuwe ZenBiome-collectie™, aangedreven door 1714™, is speciaal ontwikkeld om de darm-hersenas te targeten en cliënten te ondersteunen bij af en toe stress, milde stemmingswisselingen, weinig energie, af en toe vermoeidheid en af en toe slapeloosheid.
+
+Stress: De moderne epidemie Volgens een recent rapport van het American Institute of Stress ervaart een groot deel van de bevolking af en toe stress die hun levensstijl beïnvloedt. Eén op de tien Amerikanen zoekt interventie om stressgerelateerde problemen te beheersen, waaronder om af en toe stemmingswisselingen, slapeloosheid en energiegebrek te ondersteunen.
+
+De darm-hersenas en het psychobioom De darm-hersenas, een bidirectionele communicatie tussen darmmicrobiota en het centrale zenuwstelsel (CZS), kan een rol spelen in cognitieve functie, spijsvertering en stemming. Uit onderzoek blijkt dat 80-90% van de vezels in de nervus vagus verbonden is met de darm, wat een fysieke verbinding vormt waardoor de darmmicrobiota met de hersenen communiceert. In dit verband wordt de term psychobioom gebruikt om de interactie te beschrijven tussen iemands collectieve microbioom en zijn mentale toestand. Een divers en uitgebalanceerd microbioom kan helpen de darm-hersenas te behouden. Een psychobioticum wordt gebruikt om de commensale bacteriën te beschrijven die een rol spelen in de darm-hersenas en de hersengezondheid ondersteunen.
+
+1714™: Een baanbrekend psychobiotisch middel Onze oplossing ter ondersteuning van het psychobioom maakt gebruik van geavanceerde probioticatechnologie. 1714™, een unieke stam van Bifidobacterium longum, is een opkomend psychobioticum dat kan helpen bij het beheer van incidentele stress en de biochemische expressie ervan in het menselijk lichaam. Dit psychobioticum oefent zijn effect uit door de HPA-as te richten om gezonde cortisolniveaus te ondersteunen. 1714™ kan ondersteuning bieden voor mentale gezondheid, cognitief proces, neurotransmitters en het algemene gevoel van welzijn. In een proef van vier weken bij mensen verminderde 1714™ waargenomen stress, verbeterde het geheugenprestatie, verminderde mentale vermoeidheid, ondersteunde de hersengolfactiviteit positief en verbeterde het vermogen om met incidentele stress om te gaan.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Vegetarian&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Bifidobacterium longum 1714™* 50mg 5B KVE
+&lt;br&gt;Citroenmelisse blad extract (Melissae officinalis L.) 200mg
+&lt;br&gt;L-theanine 200mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Cellulose, plantaardige capsule (cellulose en water)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 1 capsule in de avond, met of zonder maaltijd, of zoals je arts voorschrijft.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Geen bekende allergenen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent of borstvoeding geeft, medicijnen gebruikt, een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt
+Blijf buiten bereik van kinderen
+Gebruik het niet als de veiligheidsafsluiting is verbroken of ontbreekt; voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Bifidobacterium longum 1714™* 50mg 5B KVE
+Citroenmelisse blad extract (Melissae officinalis L.) 200mg
+L-theanine 200mg</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7fccd3d0-75a1-44b6-354b-08db0a910fd1/MBL-ZenBiome-SLEEP-UK-Bottle-FRONT.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7fccd3d0-75a1-44b6-354b-08db0a910fd1/MBL-ZenBiome-SLEEP-UK-Bottle-FRONT.webp</image_links>
+  </product>
+  <product>
     <handle>TMC-10030</handle>
     <title>High Potency Bacillus Subtilis HU58™ - 60 Capsules</title>
     <vendor>Microbiome Labs</vendor>
@@ -272,7 +410,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>37</quantity>
+    <quantity>70</quantity>
     <description>&lt;p&gt;HU58™ is een krachtige dosis van Bacillus subtilis HU58 geformuleerd om de werkzaamheid van MegaSporeBiotic™ te verbeteren. HU58™ kan meer dan 12 gerichte antibiotica in de darmen produceren, waardoor het bijzonder effectief is bij het in evenwicht brengen van de darmmicroflora.&lt;/p&gt;
 &lt;p&gt;Wat is High Potentency Bacillus Subtilis? HU58 is een hoogpotente dosis van Bacillus subtilis HU58, samengesteld om de effectiviteit van MegaSporeBiotic te vergroten. Hoogpotentie Bacillus Subtilis wordt aanbevolen bij frequente reizen. Voordelen van High Potency Bacillus Subtilis zijn onder andere 100% overlevingskans in het spijsverteringskanaal, een toename van 40% in de productie van korteketenvetzuren (SCFA), behoud van een gezonde spijsvertering, ondersteuning van een gezonde immuunfunctie en effectiviteit tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Bacillus subtilis, HU58 50 mg 10 miljard kve&lt;/p&gt;
@@ -305,7 +443,7 @@ Buiten bereik van kinderen houden. Niet gebruiken als de veiligheidsverzegeling 
     <price>45.79</price>
     <cost>29.41</cost>
     <available>true</available>
-    <quantity>85</quantity>
+    <quantity>83</quantity>
     <description>&lt;p&gt;Microbiome Labs&amp;#x27; Pregnancy Support is een innovatieve, klinisch bestudeerde, door probiotica aangedreven mix die is samengesteld om een gezonde moeder en baby te ondersteunen vanaf de preconceptie tijdens de zwangerschap en daarna. Het vermindert vaginaal ongemak veroorzaakt door onevenwichtigheden tussen bacteriën en gisten. Het komt ook ten goede aan de zich ontwikkelende baby, waaronder het ondersteunen van een gezonde huidontwikkeling en het delen van essentiële nuttige bacteriën via de moedermelk.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary Probiotic Blend&lt;br&gt;Microcrystalline cellulose&lt;br&gt;Capsule&lt;br&gt;Silica&lt;br&gt;Magnesium stearate&lt;/p&gt;
@@ -348,7 +486,7 @@ Magnesium stearate</nutritional_info>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>1676</quantity>
+    <quantity>2506</quantity>
     <description>&lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerd mengsel 100 mg
@@ -398,7 +536,7 @@ Lycopeen (uit tomaat) 1 mg</nutritional_info>
     <price>50.37</price>
     <cost>32.35</cost>
     <available>true</available>
-    <quantity>308</quantity>
+    <quantity>306</quantity>
     <description>&lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteriDSM17648, die specifieke organismen in de darm kan aantrekken en de verwijdering ervan via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam vanL. reuterihandhaaft het H. pylori-gehalte al binnen het normale bereik en ondersteunt de algehele spijsvertering.&lt;/p&gt;
 &lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteri-DSM17648, die specifieke organismen in de darm kan aantrekken en hun verwijdering via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam van L. reuteri houdt de H. pylori-waarden al binnen het normale bereik en ondersteunt de algehele spijsverteringsgezondheid.
 
@@ -502,7 +640,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>96</quantity>
+    <quantity>188</quantity>
     <description>&lt;p&gt;Is het eerste Precision Prebiotic-supplement™ dat bestaat uit klinisch geteste, niet-verteerbare oligosacchariden die de microbiële diversiteit kunnen vergroten en selectief nuttige bacteriën zoals Akkermansia muciniphila, Faecalibacterium prausnitzii en Bifidobacteria kunnen voeden. MegaPre™ VERSTERKT de gunstige microbiële veranderingen die door MegaSporeBiotic™ worden gecreëerd om een sterk en divers microbioom te bevorderen.&lt;/p&gt;
 &lt;p&gt;MegaPre is een geavanceerd Precision Prebiotic-supplement dat bestaat uit klinisch geteste, niet-verteerbare oligosacchariden die de microbiële diversiteit kunnen vergroten en selectief nuttige hoeksteenbacteriën zoals Akkermansia muciniphila, Faecalibacterium prausnitzii en Bifidobacteria kunnen voeden.
 
@@ -536,6 +674,53 @@ Organische xylo-oligosacchariden (PreticX)</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/37e85964-8dd8-4e07-4f7c-08da78a4a19b/MBL-MegaPre-UK-Bottle-FRONT.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/37e85964-8dd8-4e07-4f7c-08da78a4a19b/gastrointestinalhealth_megapre_SFP_gastrointestinalhealth_megapre-capsules_SFP.webp</image_links>
   </product>
   <product>
+    <handle>TMC-53346</handle>
+    <title>FODMate - 120 capsules</title>
+    <vendor>Microbiome Labs</vendor>
+    <brand>Microbiome Labs</brand>
+    <product_type/>
+    <tags/>
+    <sku>TMC-53346</sku>
+    <barcode/>
+    <price>62.27</price>
+    <cost>39.99</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
+Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Proprietary blend – 530 mg
+• Endo- and Exo Inulinase
+• Pectinase
+Lactase – 100 mg
+Alpha galactosidase – 50 mg
+Vegetable capsule (hypromellose and water)
+Cellulose
+Magnesium stearate
+Silicon dioxide</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>60</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-1.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-SFP.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-Suggested-Use.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-SFP.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-Suggested-Use.webp</image_links>
+  </product>
+  <product>
     <handle>TMC-76196</handle>
     <title>MegaGuard - 60 Capsules</title>
     <vendor>Microbiome Labs</vendor>
@@ -547,7 +732,7 @@ Organische xylo-oligosacchariden (PreticX)</nutritional_info>
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>67</quantity>
+    <quantity>126</quantity>
     <description>&lt;p&gt;MegaGuard™ is een nieuw spijsverteringshulpmiddel dat beschermende zoethoutpolyfenolen, reinigend artisjokbladextract en kalmerende gember combineert om een normale spijsvertering te bevorderen, maagzuur te reguleren, H. pylori-niveaus in evenwicht te brengen en incidentele spijsverteringsongemakken zoals gasvorming, een opgeblazen gevoel en indigestie te verminderen. Met de kracht van deze kruiden gecombineerd, biedt MegaGuard™️ unieke en uitgebreide spijsverteringsondersteuning, stoelgang regelmaat en maagbescherming.&lt;/p&gt;
 &lt;p&gt;GUTGARD® ZOETE FLAVONOÏDEN | 75 mg  
 Zoethout (Glycyrrhiza glabra) heeft een lange geschiedenis van gebruik voor de behandeling van spijsverteringsongemakken. In de Ayurvedische en Traditionele Chinese Geneeskunde staat drop bekend om zijn vermogen om het maagslijmvlies te beschermen en dagelijkse ontstekingen te moduleren. Een van de meest bekende werkzame ingrediënten in drop is een saponine genaamd glycyrrhizine, die in de voedingsindustrie als emulgator en zoetstof wordt gebruikt. De meeste supplementen bevatten echter gedeglycyrrhizineerde drop (DGL), omdat grote hoeveelheden glycyrrhizine in verband zijn gebracht met ernstige bijwerkingen zoals verhoogde bloeddruk en verlaagde kaliumspiegels. Gutgard-zoeterijflavonoïden® verschillen volledig van DGL wat betreft chemie, samenstelling, productie en werkingsmechanismen. Hoewel een klassiek extract van DGL geen significante hoeveelheid flavonoïden bevat, is Gutgard® gestandaardiseerd om meer dan 10% totale flavonoïden en minder dan 0,5% glycyrrhizine te bevatten om ongewenste effecten te voorkomen. Meer dan 50 flavonoïden zijn in Gutgard® geïdentificeerd en waarvan is aangetoond dat ze gunstig zijn voor spijsverteringsklachten. Sterker nog, Gutgard-zoetstandflavonoïden® zijn veel effectiever bewezen om het maagslijmvlies te beschermen en de Helicobacter pylori-niveaus in balans te brengen dan gewone DGL-extracten. Gutgard-drop® kan ook af en toe indigestie, een opgeblazen gevoel en buikpijn verlichten bij 150 mg/dag.  
@@ -596,7 +781,7 @@ Gemberwortelextract (gestandaardiseerd 20% gingerolen) 30mg</nutritional_info>
     <price>50.03</price>
     <cost>32.13</cost>
     <available>true</available>
-    <quantity>122</quantity>
+    <quantity>121</quantity>
     <description>&lt;p&gt;RestorFlora is een probiotisch supplement dat goed bestudeerde en veelgebruikte probiotische stammen Saccharomyces Boulardii, Bacillus Subtilis HU58 en Bacillus Clausii combineert. Deze combinatie van probiotische gist en bacteriën biedt uitgebreide ondersteuning van de spijsverteringsflora met een geavanceerde, dual-action aanpak om een gezond darmmilieu te behouden.&lt;/p&gt;
 &lt;p&gt;RestorFlora™ is een probioticum dat drie goed bestudeerde en veelgebruikte probiotische stammen combineert: Saccharomyces boulardii, Bacillus subtilis en Bacillus clausii. Deze combinatie van klinisch bestudeerde, vriendelijke probiotische gist en probiotische bacteriën biedt uitgebreide ondersteuning van de spijsverteringsflora met een geavanceerde, dubbele aanpak om een gezond darmmilieu te behouden.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegetarian&lt;/p&gt;
@@ -666,191 +851,6 @@ Silica</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/3e973a84-af32-47e9-21ee-08de8347c21f/MBL-EpicDefense-UK-Bottle-FRONT_%281%29.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/3e973a84-af32-47e9-21ee-08de8347c21f/epicdefense-2.webp</image_links>
   </product>
   <product>
-    <handle>TMC-52796</handle>
-    <title>ZenBiome Dual - 60 capsules</title>
-    <vendor>Microbiome Labs</vendor>
-    <brand>Microbiome Labs</brand>
-    <product_type/>
-    <tags/>
-    <sku>TMC-52796</sku>
-    <barcode/>
-    <price>70.22</price>
-    <cost>45.09</cost>
-    <available>true</available>
-    <quantity>50</quantity>
-    <description>&lt;p&gt;Zenbiome™ Dual is een geavanceerde, gerichte probiotische formulering die twee sterk onderzochte, klinisch gevalideerde stammen van Bifidobacterium longum combineert. Deze precieze synergetische mix levert 10 miljard CFU per portie om een sterke gastro-intestinale homeostase en de darm-hersenas te ondersteunen. Deze specifieke stammen, geformuleerd voor maximale levensvatbaarheid, zorgen voor optimale kolonisatie en continu 24-uurs onderhoud van het darmmicrobioom.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Milk Free, Soy Free&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary probiotic blend – 97.5 mg&lt;br&gt;Bifidobacterium longum 1714™&lt;br&gt;Bifidobacterium longum 35624®&lt;br&gt;Capsule (hydroxypropyl methylcellulose)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 2 capsules bij een maaltijd of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicatie gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
-Gebruik het niet als de beveiligingszegel is verbroken.
-Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Proprietary probiotic blend – 97.5 mg
-Bifidobacterium longum 1714™
-Bifidobacterium longum 35624®
-Capsule (hydroxypropyl methylcellulose)
-Cellulose
-Magnesium stearate</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/dd427d29-d630-4e2f-1b1f-08de8356730f/ZenBiomeDual.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/dd427d29-d630-4e2f-1b1f-08de8356730f/ZenBiomeDual.webp</image_links>
-  </product>
-  <product>
-    <handle>TMC-29465</handle>
-    <title>ZenBiome Sleep - 30 capsules</title>
-    <vendor>Microbiome Labs</vendor>
-    <brand>Microbiome Labs</brand>
-    <product_type>Probiotics</product_type>
-    <tags>Gastrointestinal, Neuro Support, Probiotics, Reinoculate, Sleep, Sleep Complex</tags>
-    <sku>TMC-29465</sku>
-    <barcode/>
-    <price>62.27</price>
-    <cost>39.99</cost>
-    <available>true</available>
-    <quantity>48</quantity>
-    <description>&lt;p&gt;ZenBiome Sleep™ is geformuleerd om cliënten te helpen omgaan met incidentele slapeloosheid, maar kan ook helpen bij het ondersteunen van gevoelens van ontspanning en verminderde spanning.&lt;/p&gt;
-&lt;p&gt;Onze nieuwe ZenBiome-collectie™, aangedreven door 1714™, is speciaal ontwikkeld om de darm-hersenas te targeten en cliënten te ondersteunen bij af en toe stress, milde stemmingswisselingen, weinig energie, af en toe vermoeidheid en af en toe slapeloosheid.
-
-Stress: De moderne epidemie Volgens een recent rapport van het American Institute of Stress ervaart een groot deel van de bevolking af en toe stress die hun levensstijl beïnvloedt. Eén op de tien Amerikanen zoekt interventie om stressgerelateerde problemen te beheersen, waaronder om af en toe stemmingswisselingen, slapeloosheid en energiegebrek te ondersteunen.
-
-De darm-hersenas en het psychobioom De darm-hersenas, een bidirectionele communicatie tussen darmmicrobiota en het centrale zenuwstelsel (CZS), kan een rol spelen in cognitieve functie, spijsvertering en stemming. Uit onderzoek blijkt dat 80-90% van de vezels in de nervus vagus verbonden is met de darm, wat een fysieke verbinding vormt waardoor de darmmicrobiota met de hersenen communiceert. In dit verband wordt de term psychobioom gebruikt om de interactie te beschrijven tussen iemands collectieve microbioom en zijn mentale toestand. Een divers en uitgebalanceerd microbioom kan helpen de darm-hersenas te behouden. Een psychobioticum wordt gebruikt om de commensale bacteriën te beschrijven die een rol spelen in de darm-hersenas en de hersengezondheid ondersteunen.
-
-1714™: Een baanbrekend psychobiotisch middel Onze oplossing ter ondersteuning van het psychobioom maakt gebruik van geavanceerde probioticatechnologie. 1714™, een unieke stam van Bifidobacterium longum, is een opkomend psychobioticum dat kan helpen bij het beheer van incidentele stress en de biochemische expressie ervan in het menselijk lichaam. Dit psychobioticum oefent zijn effect uit door de HPA-as te richten om gezonde cortisolniveaus te ondersteunen. 1714™ kan ondersteuning bieden voor mentale gezondheid, cognitief proces, neurotransmitters en het algemene gevoel van welzijn. In een proef van vier weken bij mensen verminderde 1714™ waargenomen stress, verbeterde het geheugenprestatie, verminderde mentale vermoeidheid, ondersteunde de hersengolfactiviteit positief en verbeterde het vermogen om met incidentele stress om te gaan.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Vegetarian&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Bifidobacterium longum 1714™* 50mg 5B KVE
-&lt;br&gt;Citroenmelisse blad extract (Melissae officinalis L.) 200mg
-&lt;br&gt;L-theanine 200mg&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Cellulose, plantaardige capsule (cellulose en water)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 1 capsule in de avond, met of zonder maaltijd, of zoals je arts voorschrijft.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Geen bekende allergenen&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent of borstvoeding geeft, medicijnen gebruikt, een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt
-Blijf buiten bereik van kinderen
-Gebruik het niet als de veiligheidsafsluiting is verbroken of ontbreekt; voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Bifidobacterium longum 1714™* 50mg 5B KVE
-Citroenmelisse blad extract (Melissae officinalis L.) 200mg
-L-theanine 200mg</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7fccd3d0-75a1-44b6-354b-08db0a910fd1/MBL-ZenBiome-SLEEP-UK-Bottle-FRONT.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7fccd3d0-75a1-44b6-354b-08db0a910fd1/MBL-ZenBiome-SLEEP-UK-Bottle-FRONT.webp</image_links>
-  </product>
-  <product>
-    <handle>TMC-53136</handle>
-    <title>Vaginal Balance - 60 capsules</title>
-    <vendor>Microbiome Labs</vendor>
-    <brand>Microbiome Labs</brand>
-    <product_type>Other</product_type>
-    <tags>Demographics, Other, Women</tags>
-    <sku>TMC-53136</sku>
-    <barcode/>
-    <price>41.21</price>
-    <cost>26.47</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Vaginal Balance is geformuleerd met Lactobacillus probiotica, de meest voorkomende bacteriesoort die in een gezonde vagina wordt aangetroffen, en cranberrypoeder. Het handhaaft effectief gezonde darm- en vaginale microbiomen en biedt unieke 4-in-één ondersteuning.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Cranberry fruit powder (Vaccinium macrocarpon) – 500 mg&lt;br&gt;Hypromellose&lt;br&gt;Lactobacillus crispatus&lt;br&gt;Proprietary Probiotic Blend&lt;br&gt;LA-5® Lactobacillus acidophilus&lt;br&gt;Water&lt;br&gt;Lactobacillus rhamnosus&lt;br&gt;Rice maltodextrin&lt;br&gt;Lactobacillus gasseri&lt;br&gt;Capsule&lt;br&gt;Lactobacillus jensenii&lt;br&gt;Silica&lt;br&gt;Magnesium stearate&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 2 capsules of zoals door een therapeut voorgeschreven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Cranberry fruit powder (Vaccinium macrocarpon) – 500 mg
-Hypromellose
-Lactobacillus crispatus
-Proprietary Probiotic Blend
-LA-5® Lactobacillus acidophilus
-Water
-Lactobacillus rhamnosus
-Rice maltodextrin
-Lactobacillus gasseri
-Capsule
-Lactobacillus jensenii
-Silica
-Magnesium stearate</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SFP.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SuggestedUse.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SFP.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/fdc407ff-f811-4e72-accf-08dd4b354776/Womens-Health_VaginalBalance_Mockup-SuggestedUse.webp</image_links>
-  </product>
-  <product>
-    <handle>TMC-53346</handle>
-    <title>FODMate - 120 capsules</title>
-    <vendor>Microbiome Labs</vendor>
-    <brand>Microbiome Labs</brand>
-    <product_type/>
-    <tags/>
-    <sku>TMC-53346</sku>
-    <barcode/>
-    <price>62.27</price>
-    <cost>39.99</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Als je zwanger bent, borstvoeding geeft, medicijnen gebruikt of een medische aandoening hebt, raadpleeg dan je arts voordat je dit product gebruikt.
-Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Bewaar gesloten op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Proprietary blend – 530 mg
-• Endo- and Exo Inulinase
-• Pectinase
-Lactase – 100 mg
-Alpha galactosidase – 50 mg
-Vegetable capsule (hypromellose and water)
-Cellulose
-Magnesium stearate
-Silicon dioxide</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>60</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-1.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-SFP.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-Suggested-Use.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-SFP.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/2491074c-5c0e-4e41-1b20-08de8356730f/FODMATE-Mockup-Suggested-Use.webp</image_links>
-  </product>
-  <product>
     <handle>INVMIN60C</handle>
     <title>Bio.Me Mind + Mood - 60 Capsules</title>
     <vendor>Invivo</vendor>
@@ -862,7 +862,7 @@ Silicon dioxide</nutritional_info>
     <price>46.71</price>
     <cost>29.99</cost>
     <available>true</available>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <description>&lt;p&gt;Is een klinisch onderzochte levende bacterie met meerdere stammen die is geformuleerd met biotine om symptoommodulatie van stemmingsonevenwichtigheden zoals angst en depressie te ondersteunen en om stressgerelateerde darmcomplicaties te verminderen.&lt;/p&gt;
 &lt;p&gt;Is een klinisch onderzochte levende bacterie met meerdere stammen die is geformuleerd met biotine om symptoommodulatie van stemmingsonevenwichtigheden zoals angst en depressie te ondersteunen en om stressgerelateerde darmcomplicaties te verminderen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Biotin – 20 µg&lt;br&gt;Cerebiome&lt;br&gt;L. helveticus Rosell-52&lt;br&gt;B. longum Rosell-175&lt;br&gt;B. bifidum Rosell-71&lt;br&gt;L. plantarum Rosell-1012&lt;br&gt;Potato Starch&lt;br&gt;Ascorbic Acid&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
@@ -949,7 +949,7 @@ Citroenmelisse 50 mg ✝</nutritional_info>
     <price>43.41</price>
     <cost>27.88</cost>
     <available>true</available>
-    <quantity>3</quantity>
+    <quantity>9</quantity>
     <description>&lt;p&gt;Ondersteuning van de leverfunctie en galproductie en -stroom, wat ook helpt bij de klaring van endotoxinen [lipopolysacchariden (LPS)].&lt;/p&gt;
 &lt;p&gt;Ondersteuning van de leverfunctie en galproductie en -stroom, wat ook helpt bij de klaring van endotoxinen [lipopolysacchariden (LPS)].&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Selenium Yeast – 100000 µg&lt;br&gt;Dandelion root extract 5:1 (3% Vitexin) – 500 mg&lt;br&gt;Burdock root extract 4:1 – 300 mg&lt;br&gt;Hibiscus extract – 250 mg&lt;br&gt;Chlorella – 250 mg&lt;br&gt;Spirulina – 250 mg&lt;br&gt;Artichoke extract 4:1 – 200 mg&lt;br&gt;Milk Thistle extract 40:! – 100 mg&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
@@ -988,7 +988,7 @@ Hydroxypropyl Methylcellulose</nutritional_info>
     <price>40.11</price>
     <cost>25.76</cost>
     <available>true</available>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <description>&lt;p&gt;Een klinisch onderzochte levende bacterie met meerdere stammen voor het darm-hersenmicrobioom en de gezondheid van de darmbarrière, die werkt om de immuunrespons en tight junctions te ondersteunen en om lipopolysachariden af te breken.&lt;/p&gt;
 &lt;p&gt;Een klinisch onderzochte levende bacterie met meerdere stammen voor het darm-hersenmicrobioom en de gezondheid van de darmbarrière, die werkt om de immuunrespons en tight junctions te ondersteunen en om lipopolysachariden af te breken.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Ecologic Barrier Probiotics&lt;br&gt;PROBIOACT®&lt;br&gt;Capsule&lt;/p&gt;
@@ -1010,6 +1010,43 @@ Capsule</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/b8569982-0b5e-498c-49f4-08da78a4a19b/INVBAR90C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/b8569982-0b5e-498c-49f4-08da78a4a19b/INVBAR90C-2.webp</image_links>
   </product>
   <product>
+    <handle>INVIBD60C</handle>
+    <title>Bio.Me IB+ - 60 Capsules</title>
+    <vendor>Invivo</vendor>
+    <brand>Invivo</brand>
+    <product_type>Probiotics</product_type>
+    <tags>Gastrointestinal, Probiotics, Reinoculate</tags>
+    <sku>INVIBD60C</sku>
+    <barcode/>
+    <price>32.42</price>
+    <cost>20.82</cost>
+    <available>true</available>
+    <quantity>3</quantity>
+    <description>&lt;p&gt;Is een probiotische formulering die de bacteriestammen Enterococcus faecium Rosell-26® (R0026) en Bacillus subtilis Rosell-179® (R0179) bevat&lt;/p&gt;
+&lt;p&gt;Is een probiotische formulering die de bacteriestammen Enterococcus faecium Rosell-26® (R0026) en Bacillus subtilis Rosell-179® (R0179) bevat.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;IBacillus+ Probiotics&lt;br&gt;E. faecium Rosell-26&lt;br&gt;B. subtilis Rosell-179&lt;br&gt;Potato Starch&lt;br&gt;Magnesium Stearate&lt;br&gt;Ascorbic Acid&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>IBacillus+ Probiotics
+E. faecium Rosell-26
+B. subtilis Rosell-179
+Potato Starch
+Magnesium Stearate
+Ascorbic Acid
+Hydroxypropyl Methylcellulose</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>60</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-1.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-2.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-2.webp</image_links>
+  </product>
+  <product>
     <handle>INVMUC90C</handle>
     <title>Bio.Revive Mucin + - 90 Capsules</title>
     <vendor>Invivo</vendor>
@@ -1021,7 +1058,7 @@ Capsule</nutritional_info>
     <price>54.40</price>
     <cost>34.94</cost>
     <available>true</available>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Bio.Revive™ Mucine+ is geformuleerd met het oog op de gezondheid van de slijmvlieslaag van het maagdarmkanaal.&lt;/p&gt;
 &lt;p&gt;Het bevat slijmerige kruiden zoals Muco-Save®, dat een patent heeft gekregen voor de &amp;#x27;actieve bescherming van gevoelige slijmvliezen&amp;#x27; en voor het voorkomen van gastro-oesofageale refluxziekte (GORD), evenals bruine zeewierpolysacchariden (Fucoidans) en Aronia-bessenextract (Aroniacraft®), waarvan is aangetoond dat ze Akkermansia spp. verhogen.
 Het is veilig te gebruiken in geval van darmpermeabiliteit, zweren en GORD.&lt;/p&gt;
@@ -1059,7 +1096,7 @@ Spirulina</nutritional_info>
     <price>37.91</price>
     <cost>24.35</cost>
     <available>true</available>
-    <quantity>3</quantity>
+    <quantity>20</quantity>
     <description>&lt;p&gt;Is een veganistische spijsverteringsenzymformule, ter ondersteuning van de afbraak van vetten, eiwitten en koolhydraten in het maagdarmkanaal.&lt;/p&gt;
 &lt;p&gt;Is een veganistische spijsverteringsenzymformule, ter ondersteuning van de afbraak van vetten, eiwitten en koolhydraten in het maagdarmkanaal.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Vegan&lt;/p&gt;
@@ -1081,6 +1118,47 @@ Hydroxypropylmethylcellulose</nutritional_info>
       </image>
     </images>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a29ea759-b80d-46ba-4a02-08da78a4a19b/INVDIG90C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a29ea759-b80d-46ba-4a02-08da78a4a19b/INVDIG90C-2.webp</image_links>
+  </product>
+  <product>
+    <handle>INVOES60C</handle>
+    <title>Bio.Clear Oestro - 60 Capsules</title>
+    <vendor>Invivo</vendor>
+    <brand>Invivo</brand>
+    <product_type>Premenstrual syndrome (PMS)</product_type>
+    <tags>Demographics, Detox, Detox Complex, Premenstrual syndrome (PMS), Women</tags>
+    <sku>INVOES60C</sku>
+    <barcode/>
+    <price>57.69</price>
+    <cost>37.05</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Ondersteuning van een gezond oestrogeenmetabolisme door de productie van de enzymen die betrokken zijn bij het oestrogeenontgiftingsproces te stimuleren en door een gezonde oestroboloom te ondersteunen. Veel van de enzymen die nodig zijn voor biotransformatie worden ook gebruikt bij de klaring van xeno-oestrogenen en andere toxines.&lt;/p&gt;
+&lt;p&gt;Ondersteuning van een gezond oestrogeenmetabolisme door de productie van de enzymen die betrokken zijn bij het oestrogeenontgiftingsproces te stimuleren en door een gezonde oestroboloom te ondersteunen. Veel van de enzymen die nodig zijn voor biotransformatie worden ook gebruikt bij de klaring van xeno-oestrogenen en andere toxines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Riboflavin-5-Phosphate – 15 mg&lt;br&gt;Selenium – 50 µg&lt;br&gt;TrueBroc Broccoli seed extract – 75 mg&lt;br&gt;Rosemary extract – 25 mg&lt;br&gt;Trimethylglycine – 25 mg&lt;br&gt;Choline Citrate – 25 mg&lt;br&gt;Mustard Myrosinase – 7.5 mg&lt;br&gt;Alfalfa powder&lt;br&gt;Spirulina&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Mosterd&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Riboflavin-5-Phosphate – 15 mg
+Selenium – 50 µg
+TrueBroc Broccoli seed extract – 75 mg
+Rosemary extract – 25 mg
+Trimethylglycine – 25 mg
+Choline Citrate – 25 mg
+Mustard Myrosinase – 7.5 mg
+Alfalfa powder
+Spirulina
+Hydroxypropyl Methylcellulose</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>60</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-1.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-2.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-2.webp</image_links>
   </product>
   <product>
     <handle>INVVIR90C</handle>
@@ -1120,6 +1198,41 @@ Capsule Shell</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7e0c5e12-840d-485d-49f2-08da78a4a19b/INVVIR90C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7e0c5e12-840d-485d-49f2-08da78a4a19b/INVVIR90C-2.webp</image_links>
   </product>
   <product>
+    <handle>INVBIM30C</handle>
+    <title>Bio.Revive Beta Immune + - 30 Capsules</title>
+    <vendor>Invivo</vendor>
+    <brand>Invivo</brand>
+    <product_type>Immunity Complex</product_type>
+    <tags>Immune, Immunity Complex</tags>
+    <sku>INVBIM30C</sku>
+    <barcode/>
+    <price>30.23</price>
+    <cost>19.41</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
+&lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamin A&lt;br&gt;Vitamin D3 – 25 µg&lt;br&gt;Zinc – 20 mg&lt;br&gt;BGF Immune – 350 mg&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Vitamin A
+Vitamin D3 – 25 µg
+Zinc – 20 mg
+BGF Immune – 350 mg
+Hydroxypropyl Methylcellulose</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-1.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-2.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-2.webp</image_links>
+  </product>
+  <product>
     <handle>INVFEV60C</handle>
     <title>Bio.Me Femme V - 60 Capsules</title>
     <vendor>Invivo</vendor>
@@ -1131,7 +1244,7 @@ Capsule Shell</nutritional_info>
     <price>50.01</price>
     <cost>32.12</cost>
     <available>true</available>
-    <quantity>26</quantity>
+    <quantity>22</quantity>
     <description>&lt;p&gt;Een probioticum voor meerdere soorten met specifieke stammen die in-vivo, ex-vivo en in-vitro-tests hebben ondergaan op hun werkzaamheid, werkingsmechanisme en veiligheid.&lt;/p&gt;
 &lt;p&gt;Klinisch onderzochte levende bacteriën voor het vaginale microbioom - geformuleerd en 
 specifiek getest om optimale melkzuurproductie en vaginale pH te ondersteunen.
@@ -1179,7 +1292,7 @@ Capsule shell (Hydroxypropyl methylcellulose)</nutritional_info>
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>29</quantity>
+    <quantity>32</quantity>
     <description>&lt;p&gt;S. boulardii is een niet-pathogene gist met probiotische activiteit die de gastro-intestinale gezondheid en de immuunfunctie ondersteunt.&lt;/p&gt;
 &lt;p&gt;Bio.Me Saccharomyces Boulardii bevat Saccharomyces boulardii van klinische kwaliteit voor het gastro-intestinale microbioom. Saccharomyces boulardii is een niet-pathogene gist die het gastro-intestinale microbioom ondersteunt en waarvan in onderzoeken is aangetoond dat het het herstel van het evenwicht van het darmmicrobioom ondersteunt, met name na antibioticagebruik. Bio.Me Saccharomyces Boulardii kan het gastro-intestinale slijmvlies beschermen en helpen bij de productie van secretoir IgA - onderdeel van onze aangeboren immuunrespons.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
@@ -1217,7 +1330,7 @@ Capsule</nutritional_info>
     <price>37.91</price>
     <cost>24.35</cost>
     <available>true</available>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <description>&lt;p&gt;Deze botanische formule, met gemberwortel, citrusbioflavonoïden, ginseng en artisjok, evenals kruiden geïnspireerd op Ayurvedische en Kampo-tradities en solide recent onderzoek, ondersteunt op natuurlijke wijze het bovenste maagdarmkanaal en de darmmotiliteit.&lt;/p&gt;
 &lt;p&gt;Deze botanische formule, met gemberwortel, citrusbioflavonoïden, ginseng en artisjok, evenals kruiden geïnspireerd op Ayurvedische en Kampo-tradities en solide recent onderzoek, ondersteunt op natuurlijke wijze het bovenste maagdarmkanaal en de darmmotiliteit.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Amalaki – 600 mg&lt;br&gt;Haritaki – 500 mg&lt;br&gt;Poria cocos – 390 mg&lt;br&gt;Artichoke leaf powder – 200 mg&lt;br&gt;Zizyphus jujuba – 200 mg&lt;br&gt;Ginger root extract 10:1 – 50 mg&lt;br&gt;Griffonia Seed Extract (99% 5-HTP) – 50 mg&lt;br&gt;MicrobiomeX – 50 mg&lt;br&gt;Liquorice root powder – 20 mg&lt;br&gt;Panax ginseng powder – 20 mg&lt;br&gt;Spirulina&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
@@ -1259,7 +1372,7 @@ Hydroxypropyl Methylcellulose</nutritional_info>
     <price>47.81</price>
     <cost>30.70</cost>
     <available>true</available>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <description>&lt;p&gt;Een botanische mix die is ontworpen om te worden gebruikt in kortetermijnplannen om een dysbiotisch microbioom opnieuw in evenwicht te brengen en om de endogene mechanismen van de gastheer om de microbiële balans te herstellen, te optimaliseren.&lt;/p&gt;
 &lt;p&gt;Een botanische mix die is ontworpen om te worden gebruikt in kortetermijnplannen om een dysbiotisch microbioom opnieuw in evenwicht te brengen en om de endogene mechanismen van de gastheer om de microbiële balans te herstellen, te optimaliseren.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Wormwood extract 4:1 – 300 mg&lt;br&gt;Caprylic Acid – 240 mg&lt;br&gt;Pau d&amp;#x27;Arco extract – 200 mg&lt;br&gt;Thyme extract – 200 mg&lt;br&gt;Barberry bark extract – 125 mg&lt;br&gt;Clove bud powder – 120 mg&lt;br&gt;Sage Extract – 100 mg&lt;br&gt;Myrrh extract – 75 mg&lt;br&gt;Hydroxypropyl Methylcellulose&lt;br&gt;Spirulina&lt;/p&gt;
@@ -1299,7 +1412,7 @@ Spirulina</nutritional_info>
     <price>36.82</price>
     <cost>23.65</cost>
     <available>true</available>
-    <quantity>3</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Een formule met levende bacteriën met meerdere stammen, ontwikkeld om te worden gebruikt als onderdeel van een dagelijkse mondverzorgingsroutine ter ondersteuning van de mondgezondheid en het orale microbioom.&lt;/p&gt;
 &lt;p&gt;Een formule met levende bacteriën met meerdere stammen, ontwikkeld om te worden gebruikt als onderdeel van een dagelijkse mondverzorgingsroutine ter ondersteuning van de mondgezondheid en het orale microbioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Smile Probiotics&lt;br&gt;Maize Starch&lt;br&gt;Maltodextrin&lt;br&gt;hydrolyzed Rice Protein&lt;/p&gt;
@@ -1322,6 +1435,48 @@ hydrolyzed Rice Protein</nutritional_info>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/b24b0a3e-380d-452b-49fc-08da78a4a19b/INVORA60G-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/b24b0a3e-380d-452b-49fc-08da78a4a19b/INVORA60G-2.webp</image_links>
   </product>
   <product>
+    <handle>INVPHGT150G</handle>
+    <title>Bio.Me Prebio PHGG - 150 g powder</title>
+    <vendor>Invivo</vendor>
+    <brand>Invivo</brand>
+    <product_type>Prebiotics</product_type>
+    <tags>Gastrointestinal, Prebiotics, Reinoculate, Remove, SIBO</tags>
+    <sku>INVPHGT150G</sku>
+    <barcode/>
+    <price>30.23</price>
+    <cost>19.41</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en het is aangetoond dat het goed wordt verdragen door personen met darmklachten, waaronder IBS en SIBO.&lt;/p&gt;
+&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij personen met darmklachten, waaronder PDS en SIBO.
+
+Klinisch wordt PHGG gebruikt als:
+– Een vulstof en prebioticum om de fecale bewegingen in balans te brengen – zowel constipatie als diarree
+– Een prebiotische voedselbron om Bifidobacterium en andere SCFA-producerende bacteriën te verhogen
+– Een voedingsvezel om het verzadigingsgevoel te vergroten&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Sunfiber® AG&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Meng dagelijks 3 theelepels in een drank naar keuze (warm of koud) of aan voedsel toe of zoals door een therapeut voorgeschreven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Sunfiber® AG</nutritional_info>
+    <delivery_format>Powder</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGGTIN150G_WEB_Shadow-600x600.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGG-AG-grade-25-600x600.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGGTIN150G_WEB_Shadow-600x600.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGG-AG-grade-25-600x600.webp</image_links>
+  </product>
+  <product>
     <handle>INVFEM90G</handle>
     <title>Bio.Me Femme UT - 90 g</title>
     <vendor>Invivo</vendor>
@@ -1333,7 +1488,7 @@ hydrolyzed Rice Protein</nutritional_info>
     <price>48.91</price>
     <cost>31.41</cost>
     <available>true</available>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <description>&lt;p&gt;Een formule met levende bacteriën met meerdere stammen, die tegelijkertijd werkt op de darmen, de vagina en het urinewegmicrobioom om deze vrouwelijke ecosystemen te ondersteunen en in evenwicht te brengen.&lt;/p&gt;
 &lt;p&gt;Een formule met levende bacteriën met meerdere stammen, die tegelijkertijd werkt op de darmen, de vagina en het urinewegmicrobioom om deze vrouwelijke ecosystemen te ondersteunen en in evenwicht te brengen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Winclove Clear Probiotics&lt;br&gt;PROBIOACT&lt;/p&gt;
@@ -1403,7 +1558,7 @@ PROBIOACT® (maize starch, maltodextrin, inulin, polydextrose, rice protein, pot
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>3</quantity>
+    <quantity>89</quantity>
     <description>&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel die afkomstig is van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij mensen met darmklachten, waaronder PDS en SIBO.
 
 Klinisch wordt PHGG gebruikt als:
@@ -1444,7 +1599,7 @@ De aanbevolen dagelijkse hoeveelheid niet overschrijden.&lt;/p&gt;
     <price>29.12</price>
     <cost>18.70</cost>
     <available>true</available>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <description>&lt;p&gt;Een oplosbare prebiotische vezel gericht op het verhogen van Bifidobacterium en lactobacillen, en dus de algehele samenstelling van het darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;Een oplosbare prebiotische vezel gericht op het verhogen van Bifidobacterium en lactobacillen, en dus de algehele samenstelling van het darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Galactooligosaccharides&lt;/p&gt;
@@ -1464,161 +1619,6 @@ De aanbevolen dagelijkse hoeveelheid niet overschrijden.&lt;/p&gt;
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/10a81f74-e5ed-406e-49fd-08da78a4a19b/INVGOS90G-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/10a81f74-e5ed-406e-49fd-08da78a4a19b/INVGOS90G-2.webp</image_links>
   </product>
   <product>
-    <handle>INVIBD60C</handle>
-    <title>Bio.Me IB+ - 60 Capsules</title>
-    <vendor>Invivo</vendor>
-    <brand>Invivo</brand>
-    <product_type>Probiotics</product_type>
-    <tags>Gastrointestinal, Probiotics, Reinoculate</tags>
-    <sku>INVIBD60C</sku>
-    <barcode/>
-    <price>32.42</price>
-    <cost>20.82</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Is een probiotische formulering die de bacteriestammen Enterococcus faecium Rosell-26® (R0026) en Bacillus subtilis Rosell-179® (R0179) bevat&lt;/p&gt;
-&lt;p&gt;Is een probiotische formulering die de bacteriestammen Enterococcus faecium Rosell-26® (R0026) en Bacillus subtilis Rosell-179® (R0179) bevat.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;IBacillus+ Probiotics&lt;br&gt;E. faecium Rosell-26&lt;br&gt;B. subtilis Rosell-179&lt;br&gt;Potato Starch&lt;br&gt;Magnesium Stearate&lt;br&gt;Ascorbic Acid&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>IBacillus+ Probiotics
-E. faecium Rosell-26
-B. subtilis Rosell-179
-Potato Starch
-Magnesium Stearate
-Ascorbic Acid
-Hydroxypropyl Methylcellulose</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>60</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-1.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-2.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a9611dfe-8688-4d66-49fa-08da78a4a19b/INVIBD60C-2.webp</image_links>
-  </product>
-  <product>
-    <handle>INVOES60C</handle>
-    <title>Bio.Clear Oestro - 60 Capsules</title>
-    <vendor>Invivo</vendor>
-    <brand>Invivo</brand>
-    <product_type>Premenstrual syndrome (PMS)</product_type>
-    <tags>Demographics, Detox, Detox Complex, Premenstrual syndrome (PMS), Women</tags>
-    <sku>INVOES60C</sku>
-    <barcode/>
-    <price>57.69</price>
-    <cost>37.05</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Ondersteuning van een gezond oestrogeenmetabolisme door de productie van de enzymen die betrokken zijn bij het oestrogeenontgiftingsproces te stimuleren en door een gezonde oestroboloom te ondersteunen. Veel van de enzymen die nodig zijn voor biotransformatie worden ook gebruikt bij de klaring van xeno-oestrogenen en andere toxines.&lt;/p&gt;
-&lt;p&gt;Ondersteuning van een gezond oestrogeenmetabolisme door de productie van de enzymen die betrokken zijn bij het oestrogeenontgiftingsproces te stimuleren en door een gezonde oestroboloom te ondersteunen. Veel van de enzymen die nodig zijn voor biotransformatie worden ook gebruikt bij de klaring van xeno-oestrogenen en andere toxines.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Riboflavin-5-Phosphate – 15 mg&lt;br&gt;Selenium – 50 µg&lt;br&gt;TrueBroc Broccoli seed extract – 75 mg&lt;br&gt;Rosemary extract – 25 mg&lt;br&gt;Trimethylglycine – 25 mg&lt;br&gt;Choline Citrate – 25 mg&lt;br&gt;Mustard Myrosinase – 7.5 mg&lt;br&gt;Alfalfa powder&lt;br&gt;Spirulina&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Mosterd&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Riboflavin-5-Phosphate – 15 mg
-Selenium – 50 µg
-TrueBroc Broccoli seed extract – 75 mg
-Rosemary extract – 25 mg
-Trimethylglycine – 25 mg
-Choline Citrate – 25 mg
-Mustard Myrosinase – 7.5 mg
-Alfalfa powder
-Spirulina
-Hydroxypropyl Methylcellulose</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>60</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-1.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-2.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/85541c1f-5793-4aff-49f1-08da78a4a19b/INVOES60C-2.webp</image_links>
-  </product>
-  <product>
-    <handle>INVBIM30C</handle>
-    <title>Bio.Revive Beta Immune + - 30 Capsules</title>
-    <vendor>Invivo</vendor>
-    <brand>Invivo</brand>
-    <product_type>Immunity Complex</product_type>
-    <tags>Immune, Immunity Complex</tags>
-    <sku>INVBIM30C</sku>
-    <barcode/>
-    <price>30.23</price>
-    <cost>19.41</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
-&lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamin A&lt;br&gt;Vitamin D3 – 25 µg&lt;br&gt;Zinc – 20 mg&lt;br&gt;BGF Immune – 350 mg&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Aanbevolen dagelijkse dosis: 1 Capsule&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Vitamin A
-Vitamin D3 – 25 µg
-Zinc – 20 mg
-BGF Immune – 350 mg
-Hydroxypropyl Methylcellulose</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-1.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-2.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/65bba594-46e9-4c42-4a00-08da78a4a19b/INVBIM30C-2.webp</image_links>
-  </product>
-  <product>
-    <handle>INVPHGT150G</handle>
-    <title>Bio.Me Prebio PHGG - 150 g powder</title>
-    <vendor>Invivo</vendor>
-    <brand>Invivo</brand>
-    <product_type>Prebiotics</product_type>
-    <tags>Gastrointestinal, Prebiotics, Reinoculate, Remove, SIBO</tags>
-    <sku>INVPHGT150G</sku>
-    <barcode/>
-    <price>30.23</price>
-    <cost>19.41</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en het is aangetoond dat het goed wordt verdragen door personen met darmklachten, waaronder IBS en SIBO.&lt;/p&gt;
-&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij personen met darmklachten, waaronder PDS en SIBO.
-
-Klinisch wordt PHGG gebruikt als:
-– Een vulstof en prebioticum om de fecale bewegingen in balans te brengen – zowel constipatie als diarree
-– Een prebiotische voedselbron om Bifidobacterium en andere SCFA-producerende bacteriën te verhogen
-– Een voedingsvezel om het verzadigingsgevoel te vergroten&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Sunfiber® AG&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Meng dagelijks 3 theelepels in een drank naar keuze (warm of koud) of aan voedsel toe of zoals door een therapeut voorgeschreven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Sunfiber® AG</nutritional_info>
-    <delivery_format>Powder</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGGTIN150G_WEB_Shadow-600x600.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGG-AG-grade-25-600x600.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGGTIN150G_WEB_Shadow-600x600.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/ab42973d-893c-42a7-49fe-08da78a4a19b/PHGG-AG-grade-25-600x600.webp</image_links>
-  </product>
-  <product>
     <handle>DIM-I3C-CAP</handle>
     <title>DIM + I3C - 60 Capsules</title>
     <vendor>Seeking Health</vendor>
@@ -1630,7 +1630,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>57</quantity>
+    <quantity>47</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteunende mix van natuurlijke indoolverbindingen
@@ -1734,7 +1734,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>35</quantity>
+    <quantity>32</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de cognitieve gezondheid
@@ -1783,7 +1783,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>49</quantity>
+    <quantity>37</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een normale vochtbalans
@@ -1937,7 +1937,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>22</quantity>
+    <quantity>20</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -1986,7 +1986,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>102</quantity>
+    <quantity>80</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezonde reactie van de darm op ingenomen histamine
@@ -2095,7 +2095,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>88</quantity>
+    <quantity>68</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezondheid van de luchtwegen helpen ondersteunen
@@ -2130,6 +2130,83 @@ Vrij van: Melk, Ei, Vis, Schelpdieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a3fb7e11-ab40-4b14-502d-08da78a4a19b/NAC-CAP.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a3fb7e11-ab40-4b14-502d-08da78a4a19b/NAC-CAP_2.webp</image_links>
   </product>
   <product>
+    <handle>ADR-NUT-CAP</handle>
+    <title>Stress Nutrients - 90 capsules</title>
+    <vendor>Seeking Health</vendor>
+    <brand>Seeking Health</brand>
+    <product_type>Stress Support Complex</product_type>
+    <tags>Neuro Support, Stress, Stress Support Complex</tags>
+    <sku>ADR-NUT-CAP</sku>
+    <barcode/>
+    <price>42.17</price>
+    <cost>27.08</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Belangrijkste voordelen en acties*
+
+Kan de gezonde reactie van het lichaam op stress helpen ondersteunen
+Kan helpen bij het ondersteunen van gezonde bijnieren
+Kan helpen bij het ondersteunen van een gezond humeur
+Kan helpen bij het ondersteunen van een gezond energieniveau&lt;/p&gt;
+&lt;p&gt;Adrenal Nutrients biedt een complex van 13 pure voedingsstoffen voor optimale ondersteuning van de bijnieren, waaronder vitamine C, zink en pantotheenzuur (vitamine B5). De rest van de krachtige ingrediënten zijn een verscheidenheid aan plantenextracten en kruidenondersteuning die kunnen helpen om een gezonde immuunrespons, stemming en gezonde stressniveaus te behouden. Constante stress kan de bijnieren uitputten, wat op zijn beurt de energieproductie en een gezonde werking van het zenuwstelsel kan verstoren. Bijniervoedingsstoffen kunnen de gezonde reactie van het lichaam op stress ondersteunen en een gevoel van kalmte en evenwicht helpen bevorderen.
+
+Pantotheenzuur is een essentieel onderdeel van het vermogen van het lichaam om bepaalde stresshormonen te produceren. Er wordt aangenomen dat wanneer het lichaam deze hormonen moet produceren als reactie op langdurige perioden van stress, het lichaam uitgeput raakt van deze belangrijke B-vitamine en de voorraden moeten worden aangevuld.
+
+Ashwagandha, ook bekend als winterkers, is een kruid dat in de Ayurvedische geneeskunde wordt gebruikt om vitaliteit, een lang leven en energie te bevorderen. De actieve stoffen in ashwagandha bieden een breed scala aan voordelen en kunnen helpen bij het ondersteunen van een gezonde immuunfunctie, een gezond humeur, evenwichtige stressniveaus en een normale schildklierfunctie. Deze verbindingen, bekend als withanoliden, kunnen het natuurlijke vermogen van het lichaam om stress te weerstaan helpen ondersteunen.
+
+Siberische ginseng en rhodiolawortel worden traditioneel gebruikt in Rusland en Scandinavische landen als &amp;quot;adaptogenen&amp;quot;, of verbindingen die kunnen helpen bij het ondersteunen van de gezonde stressreactie van het lichaam. Deze kruiden kunnen helpen het energieniveau en een gevoel van focus of helderheid te ondersteunen, zonder overstimulatie te veroorzaken.
+
+Cordyceps is een schimmel die nauw verwant is aan paddenstoelen en die polysacchariden bevat waarvan wordt gedacht dat ze helpen bij het ondersteunen van gezonde, aanhoudende energieniveaus en cellulaire gezondheid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamine C (als ascorbinezuur) 100 mg
+&lt;br&gt;Pantotheenzuur (als d-calciumpantothenaat) 100 mg
+&lt;br&gt;Zink (als TRAACS® Zinkbisglycinaat Chelaat) 15 mg
+&lt;br&gt;Ashwaghanda-extract (Withania somnifera) (wortel)(5% withanoliden) 150 mg
+&lt;br&gt;Schisandra Extract ( Schisandra chinensis (vrucht) 100 mg
+&lt;br&gt;Cordyceps Extract (Cordyceps sinensis) (mycelium) (7% cordycepic zuren) 100 mg
+&lt;br&gt;Rhodiola-extract (Rhodiola rosea) (wortel)(3% rosavins en 1% salidroside) 100 mg
+&lt;br&gt;Rozemarijn Extract ( Rosmarinus officinalis (blad) (5% rozemarijnzuur) 100 mg
+&lt;br&gt;Siberische Ginseng Extract ( Eleutherococcus senticosus )(wortel)(0,8% eleutheroside) 100 mg
+&lt;br&gt;Amerikaans Ginseng Extract (Panax quinquefolium) (wortel en blad)(15% ginsenosiden) 100 mg
+&lt;br&gt;Gedeglycyrrhizineerd dropextract ( Glycyrrhiza glabra (wortel) 100 mg
+&lt;br&gt;Coleus Forskohlii Extract ( Coleus forskohlii )(wortel)(10% forskoline) 100 mg
+&lt;br&gt;Gember (Zingiber officinale )(wortelstokken) 5 mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Vegetarische capsule (hypromellose en water), microkristallijne cellulose, ascorbylpalmitaat en L-leucine.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Voor ondersteuning van de bijnieren, neem 3 capsules na het ontbijt of zoals voorgeschreven door uw arts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; n.v.t&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Kinderen en zwangere vrouwen of vrouwen die borstvoeding geven, dienen voor gebruik hun arts te raadplegen. Niet gebruiken als de verzegeling beschadigd is. Raadpleeg voor gebruik een arts als u medicijnen gebruikt (met name bloeddrukmedicatie, hormoonbehandelingen, bloedverdunnende medicijnen) of als u medische aandoeningen heeft (met name diabetes, maagzweren, hartaandoeningen of auto-immuunziekten).
+Vrij van: Zuivel, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op een koele, droge plaats buiten het bereik van kinderen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Vitamine C (als ascorbinezuur) 100 mg
+Pantotheenzuur (als d-calciumpantothenaat) 100 mg
+Zink (als TRAACS® Zinkbisglycinaat Chelaat) 15 mg
+Ashwaghanda-extract (Withania somnifera) (wortel)(5% withanoliden) 150 mg
+Schisandra Extract ( Schisandra chinensis (vrucht) 100 mg
+Cordyceps Extract (Cordyceps sinensis) (mycelium) (7% cordycepic zuren) 100 mg
+Rhodiola-extract (Rhodiola rosea) (wortel)(3% rosavins en 1% salidroside) 100 mg
+Rozemarijn Extract ( Rosmarinus officinalis (blad) (5% rozemarijnzuur) 100 mg
+Siberische Ginseng Extract ( Eleutherococcus senticosus )(wortel)(0,8% eleutheroside) 100 mg
+Amerikaans Ginseng Extract (Panax quinquefolium) (wortel en blad)(15% ginsenosiden) 100 mg
+Gedeglycyrrhizineerd dropextract ( Glycyrrhiza glabra (wortel) 100 mg
+Coleus Forskohlii Extract ( Coleus forskohlii )(wortel)(10% forskoline) 100 mg
+Gember (Zingiber officinale )(wortelstokken) 5 mg</nutritional_info>
+    <delivery_format>Capsule</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_01Front.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_02Supp.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_07Size.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_01Front.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_02Supp.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_07Size.webp</image_links>
+  </product>
+  <product>
     <handle>TRAC-MIN-II-CAP</handle>
     <title>Trace Minerals Complex II - 30 Capsules</title>
     <vendor>Seeking Health</vendor>
@@ -2141,7 +2218,7 @@ Vrij van: Melk, Ei, Vis, Schelpdieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>35</quantity>
+    <quantity>27</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van het gebruik en de balans van mineralen
@@ -2192,7 +2269,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>52.16</price>
     <cost>33.49</cost>
     <available>true</available>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties 
 Ondersteunt normale gevoelens van geluk en welzijn 
 Ondersteunt een evenwichtige en gezonde reactie op onbedwingbare trek 
@@ -2249,7 +2326,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>80</quantity>
+    <quantity>74</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezond darmslijmvlies
@@ -2293,7 +2370,7 @@ Zink is een belangrijk mineraal dat kan helpen bij het ondersteunen van veel enz
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>51</quantity>
+    <quantity>45</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Handige formule van één per dag
@@ -2366,7 +2443,7 @@ PQQ (als pyrroloquinoline chinondinatriumzout 1 mg ✝</nutritional_info>
     <price>55.49</price>
     <cost>35.64</cost>
     <available>true</available>
-    <quantity>14</quantity>
+    <quantity>11</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 Gerichte mix van kruiden en voedingsstoffen ondersteunt de darmgezondheid
 Ondersteunt een gezonde spijsvertering en darmmotiliteit
@@ -2423,7 +2500,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>35.51</price>
     <cost>22.81</cost>
     <available>true</available>
-    <quantity>16</quantity>
+    <quantity>12</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Gebruikt niet-gemethyleerde vormen van B12 en foliumzuur
@@ -2500,7 +2577,7 @@ Pantotheenzuur (als d-calciumpantothenaat) 125 mg</nutritional_info>
     <price>52.16</price>
     <cost>33.49</cost>
     <available>true</available>
-    <quantity>53</quantity>
+    <quantity>51</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van gezonde slijmvliezen
@@ -2557,7 +2634,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>99.88</price>
     <cost>64.14</cost>
     <available>true</available>
-    <quantity>31</quantity>
+    <quantity>26</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -2605,7 +2682,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>33</quantity>
+    <quantity>30</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -2644,7 +2721,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>28</quantity>
+    <quantity>22</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt actieve B-vitamines in krachtige doses
@@ -2666,7 +2743,10 @@ Voor een supplement ter ondersteuning van methylering zonder de betaïne, overwe
 &lt;br&gt;TMG (trimethylglycine) 700 mg&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Vegetarische capsule (hypromellose en water) en ascorbylpalmitaat&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 1 capsule met of zonder voedsel, of zoals voorgeschreven door uw zorgverlener. Niet binnen 5 uur voor het slapengaan innemen, omdat dit de slaap kan verstoren.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Kinderen en zwangere vrouwen of vrouwen die borstvoeding geven, dienen voor gebruik hun arts te raadplegen. Niet gebruiken als de verzegeling beschadigd is. Raadpleeg voor gebruik een arts als u antibiotica of andere medicijnen gebruikt.
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Kinderen en zwangere of lacterende vrouwen dienen hun zorgverlener te raadplegen voordat ze het gebruiken.
+Gebruik het niet als de tamper seal beschadigd is.
+Raadpleeg een zorgverlener voordat je het gebruikt als je antibiotica of andere medicijnen gebruikt.
 Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja, Gluten, GGO, Kunstmatige Kleurstoffen, Kunstmatige Smaakstoffen&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op een koele, droge plaats buiten het bereik van kinderen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 60 porties per verpakking&lt;/p&gt;</description>
@@ -2679,13 +2759,10 @@ TMG (trimethylglycine) 700 mg</nutritional_info>
     <servings>60</servings>
     <images>
       <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMOP-60-CAPS-1.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMOP-60-CAPS-2.webp</src>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMO-PLUS-CAP.webp</src>
       </image>
     </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMOP-60-CAPS-1.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMOP-60-CAPS-2.webp</image_links>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47490a52-1ba2-4cf0-4d6d-08da78a4a19b/HOMO-PLUS-CAP.webp</image_links>
   </product>
   <product>
     <handle>MOLY-CAP</handle>
@@ -2699,7 +2776,7 @@ TMG (trimethylglycine) 700 mg</nutritional_info>
     <price>21.08</price>
     <cost>13.54</cost>
     <available>true</available>
-    <quantity>23</quantity>
+    <quantity>20</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van cellulaire gezondheid en normale celproliferatie
@@ -2739,7 +2816,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>77.68</price>
     <cost>49.89</cost>
     <available>true</available>
-    <quantity>19</quantity>
+    <quantity>15</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Multivitamine voor mannen die voedingsstoffen levert ter ondersteuning van een gezonde mannelijke vruchtbaarheid*
@@ -2854,7 +2931,7 @@ Vitamine K2 (als menachinon-7) 100 mcg</nutritional_info>
     <price>32.19</price>
     <cost>20.67</cost>
     <available>true</available>
-    <quantity>12</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de natuurlijke afweer van het lichaam tegen vrije radicalen
@@ -2897,7 +2974,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>35.51</price>
     <cost>22.81</cost>
     <available>true</available>
-    <quantity>22</quantity>
+    <quantity>19</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Bevat actieve vormen van B-vitamines plus L-5-MTHF
@@ -2957,7 +3034,7 @@ Choline (als cholinebitartraat) 50 mg</nutritional_info>
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>48</quantity>
+    <quantity>43</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteuning van een gezond vetmetabolisme
@@ -3008,7 +3085,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>35.51</price>
     <cost>22.81</cost>
     <available>true</available>
-    <quantity>32</quantity>
+    <quantity>31</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Vrij van B12 en foliumzuur voor meer controle en flexibiliteit bij het aanpassen van de dosis en het regime
@@ -3102,7 +3179,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>105</quantity>
+    <quantity>71</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Veerkrachtige &amp;quot;probiotische&amp;quot; gist heeft geen koeling nodig
@@ -3155,7 +3232,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>286</quantity>
+    <quantity>219</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van cognitieve gezondheid
@@ -3201,7 +3278,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>37</quantity>
+    <quantity>34</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezonde reactie van het lichaam op stress helpen ondersteunen
@@ -3299,7 +3376,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>71</quantity>
+    <quantity>63</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -3388,7 +3465,7 @@ Kan helpen bij het ondersteunen van een gezond tryptofaanmetabolisme&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>38</quantity>
+    <quantity>36</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteun de energieproductie door te helpen bij het transport van vetzuren
@@ -3437,7 +3514,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>49.93</price>
     <cost>32.07</cost>
     <available>true</available>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen om de gezondheid van de gewrichten te ondersteunen
@@ -3466,6 +3543,50 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/9761e129-3d74-4d2f-5100-08da78a4a19b/OP-FISH-SG_1_Front_R_700x700.webp</image_links>
   </product>
   <product>
+    <handle>OP-PC-SG</handle>
+    <title>Optimal PC - 90 softgels</title>
+    <vendor>Seeking Health</vendor>
+    <brand>Seeking Health</brand>
+    <product_type>Phospholipids</product_type>
+    <tags>Active Ingredients, Brain, Fatty Acids, Neuro Support, Neurotransmitter Support, Phospholipids</tags>
+    <sku>OP-PC-SG</sku>
+    <barcode/>
+    <price>52.16</price>
+    <cost>33.49</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Belangrijkste voordelen en acties*
+
+Sojavrije formule
+Kan helpen bij het ondersteunen van de cognitieve gezondheid
+Kan helpen bij het ondersteunen van gezonde celmembranen
+Kan helpen bij het ondersteunen van gezonde lever- en spierweefsels&lt;/p&gt;
+&lt;p&gt;Optimal PC-softgels leveren 800 mg sojavrije fosfolipiden uit zonnebloemlecithine. Het grootste deel van de choline in uw lichaam wordt aangetroffen in fosfolipiden, de meest voorkomende is fosfatidylcholine (PC). Dit product biedt een handige manier om uw lichaam te voorzien van de essentiële voedingsstof choline uit fosfatidylcholine (PC). Elke portie bevat 800 mg fosfolipidencomplex.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Fosfolipiden complex 800 mg&lt;br&gt;- bevattende fosfatidylcholine / posphatidylethanolamine / fosfatidylinositol / kleine glycolipiden / zonnebloemolie&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Softgel (gelatine, glycerine, water), astaxanthine (van Haematococcus plucialis algen), MCT (middellange keten triglyceriden) olie.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 1 softgel met voedsel of zoals door een therapeut voorgeschreven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Softgel · 90 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Fosfolipiden complex 800 mg
+- bevattende fosfatidylcholine / posphatidylethanolamine / fosfatidylinositol / kleine glycolipiden / zonnebloemolie</nutritional_info>
+    <delivery_format>Softgel</delivery_format>
+    <servings>90</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_R.2.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_2_Supp-Panel_R.2.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_R.2.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_2_Supp-Panel_R.2.webp</image_links>
+  </product>
+  <product>
     <handle>ELYTE-O-POW</handle>
     <title>Optimal Electrolyte Orange - 190.8 g powder</title>
     <vendor>Seeking Health</vendor>
@@ -3477,7 +3598,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>29</quantity>
+    <quantity>27</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Diëten die voedingsmiddelen bevatten die goede bronnen van kalium en lage natrium zijn, kunnen het risico op hoge bloeddruk en beroerte verminderen.
@@ -3529,7 +3650,7 @@ Hydratatie Blend (creatine (als creatine monohydraat / taurine / PeakATP® / ade
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>15</quantity>
+    <quantity>13</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezond zenuwstelsel
@@ -3582,7 +3703,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>30</quantity>
+    <quantity>27</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Diëten die voedingsmiddelen bevatten die goede bronnen van kalium en lage natrium zijn, kunnen het risico op hoge bloeddruk en beroerte verminderen.
@@ -3624,6 +3745,54 @@ Hydratatie Blend (creatine (als creatine monohydraat / taurine / PeakATP® / ade
       </image>
     </images>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/80bd26fb-4ea5-4299-50fc-08da78a4a19b/ELYTE-B-POW.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/80bd26fb-4ea5-4299-50fc-08da78a4a19b/ELYTE-B-POW_1_Info-Panel.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/80bd26fb-4ea5-4299-50fc-08da78a4a19b/ELYTE-B-POW_1_Supp-Lbl.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/80bd26fb-4ea5-4299-50fc-08da78a4a19b/ELYTE-B-POW_2_Supp-Panel.webp</image_links>
+  </product>
+  <product>
+    <handle>VITA-C-PLUS-POW</handle>
+    <title>Vitamin C Plus - 155.1 g powder</title>
+    <vendor>Seeking Health</vendor>
+    <brand>Seeking Health</brand>
+    <product_type>Vitamin C (Ascorbic Acid)</product_type>
+    <tags>Active Ingredients, Vitamin C (Ascorbic Acid), Vitamins</tags>
+    <sku>VITA-C-PLUS-POW</sku>
+    <barcode/>
+    <price>44.38</price>
+    <cost>28.50</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Belangrijkste voordelen en acties*
+
+Met natuurlijke ondersteunende bioflavonoïden
+Kan helpen bij het ondersteunen van een gezond immuunsysteem
+Kan helpen bij het ondersteunen van gezonde ogen en huid
+Kan helpen bij het ondersteunen van cardiovasculaire gezondheid&lt;/p&gt;
+&lt;p&gt;Vitamine C Plus-poeder bevat een krachtige portie gebufferde vitamine C. Plantaardige bioflavonoïden zijn opgenomen om het gebruik van vitamine C te ondersteunen. Vitamine C Plus is ideaal voor diegenen die op zoek zijn naar een effectief en goed verdragen supplement ter ondersteuning van het immuunsysteem. Het bevat van nature voorkomende bioflavonoïden (quercetine en luteoline) uit citrusvruchten voor extra ondersteuning van antioxidanten. Deze plantaardige bioflavonoïden versterken ook de effectiviteit van vitamine C. De gebufferde vorm van vitamine C kan het ongemak van het spijsverteringsstelsel door vitamine C-suppletie verminderen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamine C (als ascorbinezuur / calciumascorbaat / magnesiumascorbaat) 2600 mg 2889%&lt;br&gt;Calcium (als calciumascorbaat) 30 mg 2%&lt;br&gt;Magnesium (als magnesiumascorbaat) 100 mg 24%&lt;br&gt;Kalium (als kaliumbicarbonaat) 275 mg 6%&lt;br&gt;Quercetine (als quercetinedihydraat) (Sophora japonica) 20 mg ✝&lt;br&gt;Luteoline (Sophora japonica) 20 mg ✝&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Appelzuur, natuurlijke aroma&amp;#x27;s, extract van monniksvruchten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 1 maatschep in water of een drankje naar keuze mengen, of zoals door een therapeut voorgeschreven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Vitamine C (als ascorbinezuur / calciumascorbaat / magnesiumascorbaat) 2600 mg 2889%
+Calcium (als calciumascorbaat) 30 mg 2%
+Magnesium (als magnesiumascorbaat) 100 mg 24%
+Kalium (als kaliumbicarbonaat) 275 mg 6%
+Quercetine (als quercetinedihydraat) (Sophora japonica) 20 mg ✝
+Luteoline (Sophora japonica) 20 mg ✝</nutritional_info>
+    <delivery_format>Powder</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_front.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_2_Supp-Panel_366x366.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_front.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_2_Supp-Panel_366x366.webp</image_links>
   </product>
   <product>
     <handle>ELYTE-U-POW</handle>
@@ -3730,6 +3899,52 @@ Hydratatie Blend (creatine (als creatine monohydraat / taurine / PeakATP® / ade
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/5efd840a-0bb7-4962-50fd-08da78a4a19b/ELYTE-L-POW.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/5efd840a-0bb7-4962-50fd-08da78a4a19b/ELYTE-L-POW_1_Supp-Lbl.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/5efd840a-0bb7-4962-50fd-08da78a4a19b/ELYTE-L-POW_1_Info-Panel.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/5efd840a-0bb7-4962-50fd-08da78a4a19b/ELYTE-L-POW_2_Supp-Panel_R_538x538.webp</image_links>
   </product>
   <product>
+    <handle>PWO-NUT-POW</handle>
+    <title>Pre-Workout Nutrients - 302.4 g</title>
+    <vendor>Seeking Health</vendor>
+    <brand>Seeking Health</brand>
+    <product_type>Other</product_type>
+    <tags>Energy, Other</tags>
+    <sku>PWO-NUT-POW</sku>
+    <barcode/>
+    <price>69.63</price>
+    <cost>44.72</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Pre-Workout Nutrients ondersteunt het sporten met vier gerichte blends in elke portie: 
+1) Hydratatie en volheid: HydroPrime®, creatine en taurine
+2) Stikstofoxide: L-citrulline en watervrij betaïne
+3) Energie: beta-alanine, L-carnitine en PEAK ATP®
+4) Vetvrije lichaamsmassa: myHMB®&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;L-citrulline 4.000 mg&lt;br&gt;HydroPrime® glycerolpoeder 3.110 mg&lt;br&gt;Creatinemonohydraat 2.500 mg&lt;br&gt;Watervrij betaïne 2.000 mg&lt;br&gt;Beta-alanine 2.000 mg&lt;br&gt;L-carnitinetartraat 1.500 mg&lt;br&gt;MyHMB® (calcium-ß-hydroxy-ß-methylbutyraat (HMB) monohydraat) 1.500 mg&lt;br&gt;Taurine 1.000 mg&lt;br&gt;PEAK ATP® adenosine 5&amp;#x27;-trifosfaat 450 mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Natuurlijke aroma&amp;#x27;s, monniksvrucht extract, appelzuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Meng 30 tot 60 minuten voor het sporten 1 portie in 250-300 ml gefilterd water. Neem geleidelijk slokken over een periode van 1-5 minuten. Niet in één keer opdrinken. Overweeg bij het eerste gebruik slechts een halve lepel te nemen om te zien hoe je lichaam reageert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen mogen niet worden gebruikt ter vervanging van een evenwichtige en gevarieerde voeding en een gezonde levensstijl.
+Buiten bereik van kleine kinderen bewaren.
+De aanbevolen dagelijkse dosis mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op een koele, droge plaats buiten het bereik van kinderen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 15 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>L-citrulline 4.000 mg
+HydroPrime® glycerolpoeder 3.110 mg
+Creatinemonohydraat 2.500 mg
+Watervrij betaïne 2.000 mg
+Beta-alanine 2.000 mg
+L-carnitinetartraat 1.500 mg
+MyHMB® (calcium-ß-hydroxy-ß-methylbutyraat (HMB) monohydraat) 1.500 mg
+Taurine 1.000 mg
+PEAK ATP® adenosine 5'-trifosfaat 450 mg</nutritional_info>
+    <delivery_format>Powder</delivery_format>
+    <servings>15</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/56f2d378-df59-435c-dff8-08dbfa3d25bb/PWO-NUT-POW_1_Front.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/56f2d378-df59-435c-dff8-08dbfa3d25bb/PWO-NUT-POW_1_Front.webp</image_links>
+  </product>
+  <product>
     <handle>GI-PLUS-P-POW</handle>
     <title>Gut Nutrients - 232 g powder</title>
     <vendor>Seeking Health</vendor>
@@ -3741,7 +3956,7 @@ Hydratatie Blend (creatine (als creatine monohydraat / taurine / PeakATP® / ade
     <price>75.46</price>
     <cost>48.46</cost>
     <available>true</available>
-    <quantity>23</quantity>
+    <quantity>19</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 Krachtige kruid- en voedingsmengsel ondersteunt de darmgezondheid
 L-Glutamine ondersteunt de gezondheid van de darm voering en normale reparatie
@@ -3807,7 +4022,7 @@ Superoxide Dismutase (SOD) (van Extramel® M meloenextract Cucumis melo pulp) 7 
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>36</quantity>
+    <quantity>31</quantity>
     <description>&lt;p&gt;Magnesiumglycinaatchelaat: Aan glycine gebonden magnesium ondersteunt een optimale opname en benutting van magnesium, evenals ontspanning en gevoelens van rust. Deze vorm van magnesium wordt goed opgenomen en heeft minder kans op laxerende effecten of gastro-intestinale klachten.†&lt;/p&gt;
 &lt;p&gt;Magnesium Glycinate biedt een biobeschikbare bisglycinaatchelaatvorm van magnesium in een handig poeder. Het poedervormige formaat maakt het gemakkelijk om de portiegrootte aan te passen en indien nodig aan te passen. Het kan worden toegevoegd aan water, sap of je favoriete eten of drinken.
 
@@ -3900,7 +4115,7 @@ Vitamine K2 (als menachinon-4) 150 mcg</nutritional_info>
     <price>32.19</price>
     <cost>20.67</cost>
     <available>true</available>
-    <quantity>24</quantity>
+    <quantity>21</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezondheid van de botten en een gezond botmetabolisme als onderdeel van een gezond dieet dat rijk is aan calcium
@@ -3945,7 +4160,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>42.17</price>
     <cost>27.08</cost>
     <available>true</available>
-    <quantity>14</quantity>
+    <quantity>10</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Sojavrij liposomaal formaat kan helpen bij het ondersteunen van een optimale opname van voedingsstoffen
@@ -4037,7 +4252,7 @@ IJzer (als ijzerglycinaat) (Albion*) 10 mg</nutritional_info>
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van spierontspanning
@@ -4233,7 +4448,7 @@ Vitamine K2 (als menachinon-7) 80 mcg ✝</nutritional_info>
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biologisch beschikbaar, gemethyleerd foliumzuur en B12 in een goed opneembare zuigtablet
@@ -4273,6 +4488,53 @@ Vitamine B12 (als MECOBALACTIVE® methylcabalamin en adenosylcobalamine) 1000 mc
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/c7676974-f901-4097-48c0-08da78a4a19b/AB12L5-LOZ_R_large.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/c7676974-f901-4097-48c0-08da78a4a19b/AB12L5-LOZ_1_Supp-Lbl_R_large.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/c7676974-f901-4097-48c0-08da78a4a19b/AB12L5-LOZ_1_Info-Panel_R_large.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/c7676974-f901-4097-48c0-08da78a4a19b/AB12L5-LOZ_2_Supp-Panel_R_large.webp</image_links>
   </product>
   <product>
+    <handle>ENG-NUT-LOZ</handle>
+    <title>Energy Nutrients - 30 lozenges</title>
+    <vendor>Seeking Health</vendor>
+    <brand>Seeking Health</brand>
+    <product_type>L-Glutathione</product_type>
+    <tags>Active Ingredients, Amino Acids, Energy, L-Glutathione, Mitochondrial support</tags>
+    <sku>ENG-NUT-LOZ</sku>
+    <barcode/>
+    <price>33.29</price>
+    <cost>21.38</cost>
+    <available>false</available>
+    <quantity>0</quantity>
+    <description>&lt;p&gt;Energy Nutrients by Seeking Health is een combinatie van bioactieve PeakATP™ en Emothion™. Dit synergetische duo levert krachtig direct cellulaire energie en ondersteunt energieproducerende mitochondriën. 
+
+Glutathion werkt als de primaire antioxidant van uw cel en beschermt deze tegen het verbranden van energie. Zuurstof is ontvlambaar en verandert in een prooxidant. Zonder glutathion kom je met het verbranden van ATP maar zo ver totdat je stijf en pijnlijk wordt en niet meer ATP kunt recyclen of maken. Dit is waar glutathion om de hoek komt kijken.
+ATP (als PEAKATP)™ is een klinisch gevalideerde en gepatenteerde vorm van adenosine 5&amp;#x27;-trifosfaat (ATP) dinatrium die qua structuur identiek is aan de ATP die door het menselijk lichaam wordt geproduceerd en gebruikt. Het levert functionele energie en versterkt de rol van ATP in het lichaam, vooral in combinatie met lichaamsbeweging - waardoor gebruikers meer kunnen doen en meer kunnen bereiken, met minder vermoeidheid.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Adenosine 5&amp;#x27;-triphosphate – 125 mg&lt;br&gt;S-acetyl-L-glutathione – 10 mg&lt;br&gt;Xylitol&lt;br&gt;Microcrystalline cellulose&lt;br&gt;Stearic acid&lt;br&gt;Natural flavours&lt;br&gt;Malic acid&lt;br&gt;Monk fruit extract&lt;br&gt;Silica&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Laat &amp;#x27;s ochtends als eerste 1 zuigtablet volledig oplossen voordat je slikt en wacht 1 uur met eten of zoals door een therapeut voorgeschreven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
+Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
+De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Lozenge · 30 porties per verpakking&lt;/p&gt;</description>
+    <nutritional_info>Adenosine 5'-triphosphate – 125 mg
+S-acetyl-L-glutathione – 10 mg
+Xylitol
+Microcrystalline cellulose
+Stearic acid
+Natural flavours
+Malic acid
+Monk fruit extract
+Silica</nutritional_info>
+    <delivery_format>Lozenge</delivery_format>
+    <servings>30</servings>
+    <images>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_R.webp</src>
+      </image>
+      <image>
+        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_2_Supp-Panel_R.webp</src>
+      </image>
+    </images>
+    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_R.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_2_Supp-Panel_R.webp</image_links>
+  </product>
+  <product>
     <handle>HYD-B12-LOZ</handle>
     <title>Hydroxo B12 - 60 lozenges</title>
     <vendor>Seeking Health</vendor>
@@ -4284,7 +4546,7 @@ Vitamine B12 (als MECOBALACTIVE® methylcabalamin en adenosylcobalamine) 1000 mc
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Niet-methylvorm van B12
@@ -4382,7 +4644,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>20</quantity>
+    <quantity>16</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biologisch beschikbare B12 in een heerlijke zuigmond
@@ -4477,7 +4739,7 @@ PQQ (pyrroloquinoline-chinondinatriumzout) Thiaminepyrofosfaat (TPP)</nutritiona
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>26</quantity>
+    <quantity>25</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Methylvrije vormen van vitamine B12
@@ -4519,7 +4781,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>21.08</price>
     <cost>13.54</cost>
     <available>true</available>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Zachte gechelateerde vorm ondersteunt een optimale opname van zink
@@ -4570,7 +4832,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>8</quantity>
+    <quantity>5</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Krachtige methylvrije B12 en foliumzuur
@@ -4662,267 +4924,5 @@ LifePQQ® pyrroloquinoline chinon dinatriumzout 5 mg</nutritional_info>
       </image>
     </images>
     <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47e728ea-117f-459a-4bab-08dd33bc5f16/GLUT-PLUS-LOZ_1_Front_aef73ce2-ff82-49a2-9a4b-884a266e4afd_700x700.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47e728ea-117f-459a-4bab-08dd33bc5f16/GLUT-PLUS-LOZ_1_Supp-Lbl_R_368x368.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47e728ea-117f-459a-4bab-08dd33bc5f16/GLUT-PLUS-LOZ_1_Info-Panel_R_368x368.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/47e728ea-117f-459a-4bab-08dd33bc5f16/GLUT-PLUS-LOZ_2_Supp-Panel_R_368x368.webp</image_links>
-  </product>
-  <product>
-    <handle>ADR-NUT-CAP</handle>
-    <title>Stress Nutrients - 90 capsules</title>
-    <vendor>Seeking Health</vendor>
-    <brand>Seeking Health</brand>
-    <product_type>Stress Support Complex</product_type>
-    <tags>Neuro Support, Stress, Stress Support Complex</tags>
-    <sku>ADR-NUT-CAP</sku>
-    <barcode/>
-    <price>42.17</price>
-    <cost>27.08</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Belangrijkste voordelen en acties*
-
-Kan de gezonde reactie van het lichaam op stress helpen ondersteunen
-Kan helpen bij het ondersteunen van gezonde bijnieren
-Kan helpen bij het ondersteunen van een gezond humeur
-Kan helpen bij het ondersteunen van een gezond energieniveau&lt;/p&gt;
-&lt;p&gt;Adrenal Nutrients biedt een complex van 13 pure voedingsstoffen voor optimale ondersteuning van de bijnieren, waaronder vitamine C, zink en pantotheenzuur (vitamine B5). De rest van de krachtige ingrediënten zijn een verscheidenheid aan plantenextracten en kruidenondersteuning die kunnen helpen om een gezonde immuunrespons, stemming en gezonde stressniveaus te behouden. Constante stress kan de bijnieren uitputten, wat op zijn beurt de energieproductie en een gezonde werking van het zenuwstelsel kan verstoren. Bijniervoedingsstoffen kunnen de gezonde reactie van het lichaam op stress ondersteunen en een gevoel van kalmte en evenwicht helpen bevorderen.
-
-Pantotheenzuur is een essentieel onderdeel van het vermogen van het lichaam om bepaalde stresshormonen te produceren. Er wordt aangenomen dat wanneer het lichaam deze hormonen moet produceren als reactie op langdurige perioden van stress, het lichaam uitgeput raakt van deze belangrijke B-vitamine en de voorraden moeten worden aangevuld.
-
-Ashwagandha, ook bekend als winterkers, is een kruid dat in de Ayurvedische geneeskunde wordt gebruikt om vitaliteit, een lang leven en energie te bevorderen. De actieve stoffen in ashwagandha bieden een breed scala aan voordelen en kunnen helpen bij het ondersteunen van een gezonde immuunfunctie, een gezond humeur, evenwichtige stressniveaus en een normale schildklierfunctie. Deze verbindingen, bekend als withanoliden, kunnen het natuurlijke vermogen van het lichaam om stress te weerstaan helpen ondersteunen.
-
-Siberische ginseng en rhodiolawortel worden traditioneel gebruikt in Rusland en Scandinavische landen als &amp;quot;adaptogenen&amp;quot;, of verbindingen die kunnen helpen bij het ondersteunen van de gezonde stressreactie van het lichaam. Deze kruiden kunnen helpen het energieniveau en een gevoel van focus of helderheid te ondersteunen, zonder overstimulatie te veroorzaken.
-
-Cordyceps is een schimmel die nauw verwant is aan paddenstoelen en die polysacchariden bevat waarvan wordt gedacht dat ze helpen bij het ondersteunen van gezonde, aanhoudende energieniveaus en cellulaire gezondheid.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamine C (als ascorbinezuur) 100 mg
-&lt;br&gt;Pantotheenzuur (als d-calciumpantothenaat) 100 mg
-&lt;br&gt;Zink (als TRAACS® Zinkbisglycinaat Chelaat) 15 mg
-&lt;br&gt;Ashwaghanda-extract (Withania somnifera) (wortel)(5% withanoliden) 150 mg
-&lt;br&gt;Schisandra Extract ( Schisandra chinensis (vrucht) 100 mg
-&lt;br&gt;Cordyceps Extract (Cordyceps sinensis) (mycelium) (7% cordycepic zuren) 100 mg
-&lt;br&gt;Rhodiola-extract (Rhodiola rosea) (wortel)(3% rosavins en 1% salidroside) 100 mg
-&lt;br&gt;Rozemarijn Extract ( Rosmarinus officinalis (blad) (5% rozemarijnzuur) 100 mg
-&lt;br&gt;Siberische Ginseng Extract ( Eleutherococcus senticosus )(wortel)(0,8% eleutheroside) 100 mg
-&lt;br&gt;Amerikaans Ginseng Extract (Panax quinquefolium) (wortel en blad)(15% ginsenosiden) 100 mg
-&lt;br&gt;Gedeglycyrrhizineerd dropextract ( Glycyrrhiza glabra (wortel) 100 mg
-&lt;br&gt;Coleus Forskohlii Extract ( Coleus forskohlii )(wortel)(10% forskoline) 100 mg
-&lt;br&gt;Gember (Zingiber officinale )(wortelstokken) 5 mg&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Vegetarische capsule (hypromellose en water), microkristallijne cellulose, ascorbylpalmitaat en L-leucine.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Voor ondersteuning van de bijnieren, neem 3 capsules na het ontbijt of zoals voorgeschreven door uw arts.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; n.v.t&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Kinderen en zwangere vrouwen of vrouwen die borstvoeding geven, dienen voor gebruik hun arts te raadplegen. Niet gebruiken als de verzegeling beschadigd is. Raadpleeg voor gebruik een arts als u medicijnen gebruikt (met name bloeddrukmedicatie, hormoonbehandelingen, bloedverdunnende medicijnen) of als u medische aandoeningen heeft (met name diabetes, maagzweren, hartaandoeningen of auto-immuunziekten).
-Vrij van: Zuivel, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op een koele, droge plaats buiten het bereik van kinderen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Capsule · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Vitamine C (als ascorbinezuur) 100 mg
-Pantotheenzuur (als d-calciumpantothenaat) 100 mg
-Zink (als TRAACS® Zinkbisglycinaat Chelaat) 15 mg
-Ashwaghanda-extract (Withania somnifera) (wortel)(5% withanoliden) 150 mg
-Schisandra Extract ( Schisandra chinensis (vrucht) 100 mg
-Cordyceps Extract (Cordyceps sinensis) (mycelium) (7% cordycepic zuren) 100 mg
-Rhodiola-extract (Rhodiola rosea) (wortel)(3% rosavins en 1% salidroside) 100 mg
-Rozemarijn Extract ( Rosmarinus officinalis (blad) (5% rozemarijnzuur) 100 mg
-Siberische Ginseng Extract ( Eleutherococcus senticosus )(wortel)(0,8% eleutheroside) 100 mg
-Amerikaans Ginseng Extract (Panax quinquefolium) (wortel en blad)(15% ginsenosiden) 100 mg
-Gedeglycyrrhizineerd dropextract ( Glycyrrhiza glabra (wortel) 100 mg
-Coleus Forskohlii Extract ( Coleus forskohlii )(wortel)(10% forskoline) 100 mg
-Gember (Zingiber officinale )(wortelstokken) 5 mg</nutritional_info>
-    <delivery_format>Capsule</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_01Front.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_02Supp.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_07Size.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_01Front.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_02Supp.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/a09360a9-a5aa-4183-48ce-08da78a4a19b/OPAD-90-CAPS_07Size.webp</image_links>
-  </product>
-  <product>
-    <handle>OP-PC-SG</handle>
-    <title>Optimal PC - 90 softgels</title>
-    <vendor>Seeking Health</vendor>
-    <brand>Seeking Health</brand>
-    <product_type>Phospholipids</product_type>
-    <tags>Active Ingredients, Brain, Fatty Acids, Neuro Support, Neurotransmitter Support, Phospholipids</tags>
-    <sku>OP-PC-SG</sku>
-    <barcode/>
-    <price>52.16</price>
-    <cost>33.49</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Belangrijkste voordelen en acties*
-
-Sojavrije formule
-Kan helpen bij het ondersteunen van de cognitieve gezondheid
-Kan helpen bij het ondersteunen van gezonde celmembranen
-Kan helpen bij het ondersteunen van gezonde lever- en spierweefsels&lt;/p&gt;
-&lt;p&gt;Optimal PC-softgels leveren 800 mg sojavrije fosfolipiden uit zonnebloemlecithine. Het grootste deel van de choline in uw lichaam wordt aangetroffen in fosfolipiden, de meest voorkomende is fosfatidylcholine (PC). Dit product biedt een handige manier om uw lichaam te voorzien van de essentiële voedingsstof choline uit fosfatidylcholine (PC). Elke portie bevat 800 mg fosfolipidencomplex.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Fosfolipiden complex 800 mg&lt;br&gt;- bevattende fosfatidylcholine / posphatidylethanolamine / fosfatidylinositol / kleine glycolipiden / zonnebloemolie&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Softgel (gelatine, glycerine, water), astaxanthine (van Haematococcus plucialis algen), MCT (middellange keten triglyceriden) olie.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 1 softgel met voedsel of zoals door een therapeut voorgeschreven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Softgel · 90 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Fosfolipiden complex 800 mg
-- bevattende fosfatidylcholine / posphatidylethanolamine / fosfatidylinositol / kleine glycolipiden / zonnebloemolie</nutritional_info>
-    <delivery_format>Softgel</delivery_format>
-    <servings>90</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_R.2.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_2_Supp-Panel_R.2.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_R.2.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/35530e16-e6df-48c4-5114-08da78a4a19b/OP-PC-SG_2_Supp-Panel_R.2.webp</image_links>
-  </product>
-  <product>
-    <handle>VITA-C-PLUS-POW</handle>
-    <title>Vitamin C Plus - 155.1 g powder</title>
-    <vendor>Seeking Health</vendor>
-    <brand>Seeking Health</brand>
-    <product_type>Vitamin C (Ascorbic Acid)</product_type>
-    <tags>Active Ingredients, Vitamin C (Ascorbic Acid), Vitamins</tags>
-    <sku>VITA-C-PLUS-POW</sku>
-    <barcode/>
-    <price>44.38</price>
-    <cost>28.50</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Belangrijkste voordelen en acties*
-
-Met natuurlijke ondersteunende bioflavonoïden
-Kan helpen bij het ondersteunen van een gezond immuunsysteem
-Kan helpen bij het ondersteunen van gezonde ogen en huid
-Kan helpen bij het ondersteunen van cardiovasculaire gezondheid&lt;/p&gt;
-&lt;p&gt;Vitamine C Plus-poeder bevat een krachtige portie gebufferde vitamine C. Plantaardige bioflavonoïden zijn opgenomen om het gebruik van vitamine C te ondersteunen. Vitamine C Plus is ideaal voor diegenen die op zoek zijn naar een effectief en goed verdragen supplement ter ondersteuning van het immuunsysteem. Het bevat van nature voorkomende bioflavonoïden (quercetine en luteoline) uit citrusvruchten voor extra ondersteuning van antioxidanten. Deze plantaardige bioflavonoïden versterken ook de effectiviteit van vitamine C. De gebufferde vorm van vitamine C kan het ongemak van het spijsverteringsstelsel door vitamine C-suppletie verminderen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamine C (als ascorbinezuur / calciumascorbaat / magnesiumascorbaat) 2600 mg 2889%&lt;br&gt;Calcium (als calciumascorbaat) 30 mg 2%&lt;br&gt;Magnesium (als magnesiumascorbaat) 100 mg 24%&lt;br&gt;Kalium (als kaliumbicarbonaat) 275 mg 6%&lt;br&gt;Quercetine (als quercetinedihydraat) (Sophora japonica) 20 mg ✝&lt;br&gt;Luteoline (Sophora japonica) 20 mg ✝&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Appelzuur, natuurlijke aroma&amp;#x27;s, extract van monniksvruchten.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 1 maatschep in water of een drankje naar keuze mengen, of zoals door een therapeut voorgeschreven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Vitamine C (als ascorbinezuur / calciumascorbaat / magnesiumascorbaat) 2600 mg 2889%
-Calcium (als calciumascorbaat) 30 mg 2%
-Magnesium (als magnesiumascorbaat) 100 mg 24%
-Kalium (als kaliumbicarbonaat) 275 mg 6%
-Quercetine (als quercetinedihydraat) (Sophora japonica) 20 mg ✝
-Luteoline (Sophora japonica) 20 mg ✝</nutritional_info>
-    <delivery_format>Powder</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_front.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_2_Supp-Panel_366x366.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_front.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/7b330508-d93b-4375-511d-08da78a4a19b/VITA-C-PLUS-POW_2_Supp-Panel_366x366.webp</image_links>
-  </product>
-  <product>
-    <handle>PWO-NUT-POW</handle>
-    <title>Pre-Workout Nutrients - 302.4 g</title>
-    <vendor>Seeking Health</vendor>
-    <brand>Seeking Health</brand>
-    <product_type>Other</product_type>
-    <tags>Energy, Other</tags>
-    <sku>PWO-NUT-POW</sku>
-    <barcode/>
-    <price>69.63</price>
-    <cost>44.72</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Pre-Workout Nutrients ondersteunt het sporten met vier gerichte blends in elke portie: 
-1) Hydratatie en volheid: HydroPrime®, creatine en taurine
-2) Stikstofoxide: L-citrulline en watervrij betaïne
-3) Energie: beta-alanine, L-carnitine en PEAK ATP®
-4) Vetvrije lichaamsmassa: myHMB®&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;L-citrulline 4.000 mg&lt;br&gt;HydroPrime® glycerolpoeder 3.110 mg&lt;br&gt;Creatinemonohydraat 2.500 mg&lt;br&gt;Watervrij betaïne 2.000 mg&lt;br&gt;Beta-alanine 2.000 mg&lt;br&gt;L-carnitinetartraat 1.500 mg&lt;br&gt;MyHMB® (calcium-ß-hydroxy-ß-methylbutyraat (HMB) monohydraat) 1.500 mg&lt;br&gt;Taurine 1.000 mg&lt;br&gt;PEAK ATP® adenosine 5&amp;#x27;-trifosfaat 450 mg&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Overige ingrediënten:&lt;/strong&gt; Natuurlijke aroma&amp;#x27;s, monniksvrucht extract, appelzuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Meng 30 tot 60 minuten voor het sporten 1 portie in 250-300 ml gefilterd water. Neem geleidelijk slokken over een periode van 1-5 minuten. Niet in één keer opdrinken. Overweeg bij het eerste gebruik slechts een halve lepel te nemen om te zien hoe je lichaam reageert.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen mogen niet worden gebruikt ter vervanging van een evenwichtige en gevarieerde voeding en een gezonde levensstijl.
-Buiten bereik van kleine kinderen bewaren.
-De aanbevolen dagelijkse dosis mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op een koele, droge plaats buiten het bereik van kinderen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Powder · 15 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>L-citrulline 4.000 mg
-HydroPrime® glycerolpoeder 3.110 mg
-Creatinemonohydraat 2.500 mg
-Watervrij betaïne 2.000 mg
-Beta-alanine 2.000 mg
-L-carnitinetartraat 1.500 mg
-MyHMB® (calcium-ß-hydroxy-ß-methylbutyraat (HMB) monohydraat) 1.500 mg
-Taurine 1.000 mg
-PEAK ATP® adenosine 5'-trifosfaat 450 mg</nutritional_info>
-    <delivery_format>Powder</delivery_format>
-    <servings>15</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/56f2d378-df59-435c-dff8-08dbfa3d25bb/PWO-NUT-POW_1_Front.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/56f2d378-df59-435c-dff8-08dbfa3d25bb/PWO-NUT-POW_1_Front.webp</image_links>
-  </product>
-  <product>
-    <handle>ENG-NUT-LOZ</handle>
-    <title>Energy Nutrients - 30 lozenges</title>
-    <vendor>Seeking Health</vendor>
-    <brand>Seeking Health</brand>
-    <product_type>L-Glutathione</product_type>
-    <tags>Active Ingredients, Amino Acids, Energy, L-Glutathione, Mitochondrial support</tags>
-    <sku>ENG-NUT-LOZ</sku>
-    <barcode/>
-    <price>33.29</price>
-    <cost>21.38</cost>
-    <available>false</available>
-    <quantity>0</quantity>
-    <description>&lt;p&gt;Energy Nutrients by Seeking Health is een combinatie van bioactieve PeakATP™ en Emothion™. Dit synergetische duo levert krachtig direct cellulaire energie en ondersteunt energieproducerende mitochondriën. 
-
-Glutathion werkt als de primaire antioxidant van uw cel en beschermt deze tegen het verbranden van energie. Zuurstof is ontvlambaar en verandert in een prooxidant. Zonder glutathion kom je met het verbranden van ATP maar zo ver totdat je stijf en pijnlijk wordt en niet meer ATP kunt recyclen of maken. Dit is waar glutathion om de hoek komt kijken.
-ATP (als PEAKATP)™ is een klinisch gevalideerde en gepatenteerde vorm van adenosine 5&amp;#x27;-trifosfaat (ATP) dinatrium die qua structuur identiek is aan de ATP die door het menselijk lichaam wordt geproduceerd en gebruikt. Het levert functionele energie en versterkt de rol van ATP in het lichaam, vooral in combinatie met lichaamsbeweging - waardoor gebruikers meer kunnen doen en meer kunnen bereiken, met minder vermoeidheid.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Adenosine 5&amp;#x27;-triphosphate – 125 mg&lt;br&gt;S-acetyl-L-glutathione – 10 mg&lt;br&gt;Xylitol&lt;br&gt;Microcrystalline cellulose&lt;br&gt;Stearic acid&lt;br&gt;Natural flavours&lt;br&gt;Malic acid&lt;br&gt;Monk fruit extract&lt;br&gt;Silica&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Laat &amp;#x27;s ochtends als eerste 1 zuigtablet volledig oplossen voordat je slikt en wacht 1 uur met eten of zoals door een therapeut voorgeschreven.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
-Bewaar voedingssupplementen buiten het bereik van kleine kinderen.
-De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bewaren:&lt;/strong&gt; Gesloten bewaren op kamertemperatuur.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vorm:&lt;/strong&gt; Lozenge · 30 porties per verpakking&lt;/p&gt;</description>
-    <nutritional_info>Adenosine 5'-triphosphate – 125 mg
-S-acetyl-L-glutathione – 10 mg
-Xylitol
-Microcrystalline cellulose
-Stearic acid
-Natural flavours
-Malic acid
-Monk fruit extract
-Silica</nutritional_info>
-    <delivery_format>Lozenge</delivery_format>
-    <servings>30</servings>
-    <images>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_R.webp</src>
-      </image>
-      <image>
-        <src>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_2_Supp-Panel_R.webp</src>
-      </image>
-    </images>
-    <image_links>https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_R.webp,https://welldium.com/_ipx/w_1200&amp;q_90/https://prodwelldium.blob.core.windows.net/production/product-images/bdc6eff7-6b8d-4fcf-feef-08ddbfa5f842/ENG-NUT-LOZ_2_Supp-Panel_R.webp</image_links>
   </product>
 </products>
