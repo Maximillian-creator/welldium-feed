@@ -188,7 +188,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>47</quantity>
+    <quantity>44</quantity>
     <description>&lt;p&gt;ZenBiome Sleep™ is geformuleerd om cliënten te helpen omgaan met incidentele slapeloosheid, maar kan ook helpen bij het ondersteunen van gevoelens van ontspanning en verminderde spanning.&lt;/p&gt;
 &lt;p&gt;Onze nieuwe ZenBiome-collectie™, aangedreven door 1714™, is speciaal ontwikkeld om de darm-hersenas te targeten en cliënten te ondersteunen bij af en toe stress, milde stemmingswisselingen, weinig energie, af en toe vermoeidheid en af en toe slapeloosheid.
 
@@ -891,7 +891,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een normale vochtbalans
@@ -1031,7 +1031,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 Ondersteunt de vetvertering
 Ondersteunt de galproductie
@@ -1394,7 +1394,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>27</quantity>
+    <quantity>26</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1610,7 +1610,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja, Glu
     <price>22.19</price>
     <cost>14.25</cost>
     <available>true</available>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteuning van een gezond vetmetabolisme
@@ -1728,7 +1728,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>62</quantity>
+    <quantity>58</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van cognitieve gezondheid
@@ -1996,7 +1996,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Diëten die voedingsmiddelen bevatten die goede bronnen van kalium en lage natrium zijn, kunnen het risico op hoge bloeddruk en beroerte verminderen.
@@ -2153,7 +2153,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <description>&lt;p&gt;Magnesiumglycinaatchelaat: Aan glycine gebonden magnesium ondersteunt een optimale opname en benutting van magnesium, evenals ontspanning en gevoelens van rust. Deze vorm van magnesium wordt goed opgenomen en heeft minder kans op laxerende effecten of gastro-intestinale klachten.†&lt;/p&gt;
 &lt;p&gt;Magnesium Glycinate biedt een biobeschikbare bisglycinaatchelaatvorm van magnesium in een handig poeder. Het poedervormige formaat maakt het gemakkelijk om de portiegrootte aan te passen en indien nodig aan te passen. Het kan worden toegevoegd aan water, sap of je favoriete eten of drinken.
 
@@ -2366,8 +2366,8 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <barcode/>
     <price>29.96</price>
     <cost>19.24</cost>
-    <available>true</available>
-    <quantity>2</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biologisch beschikbaar, gemethyleerd foliumzuur en B12 in een goed opneembare zuigtablet
