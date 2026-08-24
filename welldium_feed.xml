@@ -95,7 +95,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>62.27</price>
     <cost>39.99</cost>
     <available>true</available>
-    <quantity>2626</quantity>
+    <quantity>2625</quantity>
     <description>&lt;p&gt;MegaSporeBiotic™ is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan klinisch is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, conditioneert de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ heeft geen koeling nodig en behoudt zijn werkzaamheid tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;MegaSporeBiotic is een probiotische mix van 4 Bacillus-sporen waarvan klinisch is aangetoond dat ze een gezonde darmbarrièrefunctie en algehele immuniteit behouden. De bifasische levenscyclus van de Bacillus-sporen stelt ze in staat om inactief te blijven in barre omgevingen totdat ze meer favuorabele omgevingen bereiken, zoals het menselijke maagdarmkanaal. Eenmaal in de dikke darm kunnen deze slapende sporen veranderen in hun actieve, vegetatieve vormen en beginnen te koloniseren in de darm. Deze unieke probiotische mix is bedoeld om de darm te reconditioneren in plaats van opnieuw te zaaien met probiotische stammen die de spijsvertering niet kunnen overleven of de darm niet kunnen koloniseren. MegaSporeBiotic is snel uitgegroeid tot een favoriet in het huishouden onder zowel gezondheidswerkers als consumenten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerde mix 152 mg
@@ -539,7 +539,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <description>&lt;p&gt;Bio.Revive™ Mucine+ is geformuleerd met het oog op de gezondheid van de slijmvlieslaag van het maagdarmkanaal.&lt;/p&gt;
 &lt;p&gt;Het bevat slijmerige kruiden zoals Muco-Save®, dat een patent heeft gekregen voor de &amp;#x27;actieve bescherming van gevoelige slijmvliezen&amp;#x27; en voor het voorkomen van gastro-oesofageale refluxziekte (GORD), evenals bruine zeewierpolysacchariden (Fucoidans) en Aronia-bessenextract (Aroniacraft®), waarvan is aangetoond dat ze Akkermansia spp. verhogen.
 Het is veilig te gebruiken in geval van darmpermeabiliteit, zweren en GORD.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Spirulina&lt;br&gt;Capsule (hydroxypropyl methylcellulose)&lt;br&gt;Muco-Save® FG – 500 mg&lt;br&gt;Brown Seaweed Polysaccharides – 250 mg&lt;br&gt;Aronia berry extract – 250 mg&lt;br&gt;N-Acetyl Glucosamine – 500 mg&lt;br&gt;Quercetin rutin – 200 mg&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Capsule (hydroxypropyl methylcellulose)&lt;br&gt;Muco-Save® FG – 500 mg&lt;br&gt;Brown Seaweed Polysaccharides – 250 mg&lt;br&gt;Aronia berry extract – 250 mg&lt;br&gt;N-Acetyl Glucosamine – 500 mg&lt;br&gt;Quercetin rutin – 200 mg&lt;br&gt;Anti-caking agent (Maltodextrin)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 3 capsules of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerd en uitgebalanceerd dieet en een gezonde levensstijl.
@@ -626,7 +626,7 @@ Bio.Me™ Femme V bevat een unieke combinatie van 5 zorgvuldig geselecteerde bac
 Stammen die specifiek zijn afgestemd op het ondersteunen van een gezonde balans van het vaginale microbioom. 
 Het bevat lactobacillensoorten die metabolieten produceren die helpen een 
 Gezonde vaginale omgeving en pH.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Probiotic Blend&lt;br&gt;Maltodextrin&lt;br&gt;Corn Starch&lt;br&gt;Microcrystalline Cellulose&lt;br&gt;Capsule shell (Hydroxypropyl methylcellulose)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Capsule shell (Hydroxypropyl methylcellulose)&lt;br&gt;Anti-caking agent (Maltodextrin)&lt;br&gt;Corn Starch&lt;br&gt;Microcrystalline Cellulose&lt;br&gt;Probiotic Blend&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem dagelijks 1 capsule oraal of volgens voorschrift van een zorgverlener.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Bij het introduceren van levende bacteriën in de darm zijn sommige individuen
@@ -648,11 +648,11 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <description>&lt;p&gt;S. boulardii is een niet-pathogene gist met probiotische activiteit die de gastro-intestinale gezondheid en de immuunfunctie ondersteunt.&lt;/p&gt;
 &lt;p&gt;Bio.Me Saccharomyces Boulardii bevat Saccharomyces boulardii van klinische kwaliteit voor het gastro-intestinale microbioom. Saccharomyces boulardii is een niet-pathogene gist die het gastro-intestinale microbioom ondersteunt en waarvan in onderzoeken is aangetoond dat het het herstel van het evenwicht van het darmmicrobioom ondersteunt, met name na antibioticagebruik. Bio.Me Saccharomyces Boulardii kan het gastro-intestinale slijmvlies beschermen en helpen bij de productie van secretoir IgA - onderdeel van onze aangeboren immuunrespons.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Saccharomyces boulardii&lt;br&gt;Capsule&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Saccharomyces boulardii&lt;br&gt;Capsule (Hydroxypropyl Methylcellulose)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Dagelijks 2 capsules of zoals door een therapeut voorgeschreven.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Allergenen:&lt;/strong&gt; Bevat geen bekende allergenen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Waarschuwingen:&lt;/strong&gt; Voedingssupplementen zijn geen vervanging voor een gevarieerde en evenwichtige voeding en een gezonde levensstijl.
@@ -769,7 +769,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <description>&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel die afkomstig is van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij mensen met darmklachten, waaronder PDS en SIBO.
 
 Klinisch wordt PHGG gebruikt als:
@@ -1063,7 +1063,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>36</quantity>
+    <quantity>35</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezondheid van de luchtwegen helpen ondersteunen
@@ -1226,7 +1226,7 @@ Zink is een belangrijk mineraal dat kan helpen bij het ondersteunen van veel enz
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Handige formule van één per dag
