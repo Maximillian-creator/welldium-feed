@@ -58,6 +58,7 @@ def main():
 
     products = wc.fetch_products()
     root = build_xml(products)
+    wc.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
     save_xml(root, OUTPUT_FILE)
 
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {len(products)} producten in de feed")
