@@ -29,11 +29,22 @@ jobs:
       - name: Scraper draaien
         run: python scraper.py
 
+      # Apex Energetics: eigen bestand + eigen Stock Sync-feed (tijdelijke bron sinds
+      # Deltastar Apex op 24-09-2026 schrapte). Draait ook als de stap hierboven faalt;
+      # de rem in controleer_omvang laat bij een halve uitkomst de vorige feed staan.
+      - name: Scraper draaien (Apex Energetics)
+        if: ${{ !cancelled() }}
+        env:
+          WELLDIUM_BRANDS: "Apex Energetics"
+          OUTPUT_FILE: welldium_apex_feed.xml
+        run: python scraper.py
+
       - name: XML committen en pushen
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add welldium_feed.xml
+          git add welldium_feed.xml welldium_apex_feed.xml
           git diff --staged --quiet || git commit -m "🔄 Feed bijgewerkt: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push

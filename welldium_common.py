@@ -24,6 +24,7 @@ Env-overrides (optioneel):
   VAT_RATE        (default 1.09)   — BTW-factor (supplementen = 9%)
   WELLDIUM_DISCOUNT (default 0.30) — practitioner-korting op de RRP
   WELLDIUM_BRANDS (default "Microbiome Labs,Invivo,Seeking Health")
+  WELLDIUM_MIN_PRIJS (default 5)   — lagere RRP = plaatshouder, gaat niet de feed in
   ALGOLIA_KEY / ALGOLIA_APP / ALGOLIA_INDEX — als de publieke key ooit rouleert
 """
 
@@ -44,6 +45,20 @@ ALGOLIA_URL = f"https://{ALGOLIA_APP}-dsn.algolia.net/1/indexes/{ALGOLIA_INDEX}/
 # --- Prijs/voorraad-parameters ---
 VAT_RATE = float(os.environ.get("VAT_RATE", "1.09"))
 DISCOUNT = float(os.environ.get("WELLDIUM_DISCOUNT", "0.30"))
+
+# BTW per Algolia-`vatCategoryId` waar die afwijkt van VAT_RATE. Welldium kent drie
+# categorieën: 01e630a1… (supplement) en 5d576b26… (vloeibaar) zijn 9%, fef4927b…
+# (crème) is 21%. Bewijs 29-09-2026: Deltastar rekende Apex Oxicell-SE (crème) op
+# 62,34 = 51,52 × 1,21, en de 44 andere Apex-producten precies op Algolia × 1,09.
+# Onbekende categorie → VAT_RATE, zoals vóór deze regel.
+BTW_PER_CATEGORIE = {
+    "fef4927b-cad5-4cab-a5bb-b1ddf847ee7f": 1.21,
+}
+
+# Prijzen (RRP excl. BTW) hieronder zijn plaatshouders, geen echte prijs:
+# Apex ClearVite-GL staat in Algolia op 1,00. Zo'n regel gaat NIET de feed in —
+# anders zet Stock Sync een product op € 1,09. Wel gemeld, nooit stil.
+MIN_PRIJS = float(os.environ.get("WELLDIUM_MIN_PRIJS", "5"))
 
 # Merken die we via Welldium inkopen (exact zoals in de Algolia-facet).
 DEFAULT_BRANDS = ["Microbiome Labs", "Invivo", "Seeking Health"]
@@ -264,7 +279,8 @@ def normalize(hit):
         return None
     raw_price = float(raw_price)
 
-    price = round(raw_price * VAT_RATE, 2)            # verkoop, incl. BTW (RRP)
+    btw = BTW_PER_CATEGORIE.get(hit.get("vatCategoryId"), VAT_RATE)
+    price = round(raw_price * btw, 2)                 # verkoop, incl. BTW (RRP)
     cost = round(raw_price * (1 - DISCOUNT), 2)       # inkoop, excl. BTW
     qty = _venlo_quantity(hit)
 
@@ -318,6 +334,11 @@ def fetch_products(brands=None):
         skipped = len(hits) - len(active)
         print(f"  {brand}: {len(active)} leverbaar naar {SHIP_COUNTRY} "
               f"({skipped} overgeslagen van {len(hits)} totaal)")
+        plaatshouders = [h for h in active if float(h.get("price") or 0) < MIN_PRIJS]
+        for h in plaatshouders:
+            print(f"    ⚠️  {h.get('sku')} {h.get('name')}: prijs {h.get('price')} "
+                  f"< {MIN_PRIJS:g} — plaatshouder, niet in de feed")
+        active = [h for h in active if h not in plaatshouders]
         for h in active:
             p = normalize(h)
             if p and p["sku"]:

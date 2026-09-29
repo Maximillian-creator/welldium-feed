@@ -10,15 +10,21 @@ voorraad en beschikbaarheid. Matcht in Stock Sync op SKU.
 
 Bron: Algolia-index van welldium.com (geen login nodig). Zie welldium_common.py.
 Lokaal testen: WELLDIUM_BRANDS="Invivo" python scraper.py
+
+Apex Energetics heeft een eigen bestand (welldium_apex_feed.xml) en een eigen
+Stock Sync-feed: tijdelijke bron sinds Deltastar Apex op 24-09-2026 schrapte, en
+los te koppelen zodra de nieuwe Apex-leverancier er is. Zelfde script:
+  WELLDIUM_BRANDS="Apex Energetics" OUTPUT_FILE=welldium_apex_feed.xml python scraper.py
 """
 
+import os
 import time
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 import welldium_common as wc
 
-OUTPUT_FILE = "welldium_feed.xml"
+OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "welldium_feed.xml")
 
 
 def build_xml(products):
@@ -63,7 +69,7 @@ def main():
 
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {len(products)} producten in de feed")
     print("\n📋 Feed-URL voor Stock Sync (Update):")
-    print("https://raw.githubusercontent.com/Maximillian-creator/welldium-feed/main/welldium_feed.xml")
+    print(f"https://raw.githubusercontent.com/Maximillian-creator/welldium-feed/main/{OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
