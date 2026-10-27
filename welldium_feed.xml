@@ -56,7 +56,7 @@ Niet gebruiken als de veiligheidsverzegeling is verbroken of ontbreekt.&lt;/p&gt
     <price>75.65</price>
     <cost>48.58</cost>
     <available>true</available>
-    <quantity>35</quantity>
+    <quantity>83</quantity>
     <description>&lt;p&gt;Zenbiome™ Dual is een geavanceerde, gerichte probiotische formulering die twee sterk onderzochte, klinisch gevalideerde stammen van Bifidobacterium longum combineert. Deze precieze synergetische mix levert 10 miljard CFU per portie om een sterke gastro-intestinale homeostase en de darm-hersenas te ondersteunen. Deze specifieke stammen, geformuleerd voor maximale levensvatbaarheid, zorgen voor optimale kolonisatie en continu 24-uurs onderhoud van het darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Milk Free, Soy Free&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary probiotic blend – 67.5 mg&lt;br&gt;Bifidobacterium longum 1714™&lt;br&gt;Bifidobacterium longum 35624®&lt;br&gt;Capsule (hypromellose, water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;/p&gt;
@@ -95,7 +95,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>67.12</price>
     <cost>43.10</cost>
     <available>true</available>
-    <quantity>1883</quantity>
+    <quantity>1856</quantity>
     <description>&lt;p&gt;MegaSporeBiotic™ is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan klinisch is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, conditioneert de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ heeft geen koeling nodig en behoudt zijn werkzaamheid tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;MegaSporeBiotic is een probiotische mix van 4 Bacillus-sporen waarvan klinisch is aangetoond dat ze een gezonde darmbarrièrefunctie en algehele immuniteit behouden. De bifasische levenscyclus van de Bacillus-sporen stelt ze in staat om inactief te blijven in barre omgevingen totdat ze meer favuorabele omgevingen bereiken, zoals het menselijke maagdarmkanaal. Eenmaal in de dikke darm kunnen deze slapende sporen veranderen in hun actieve, vegetatieve vormen en beginnen te koloniseren in de darm. Deze unieke probiotische mix is bedoeld om de darm te reconditioneren in plaats van opnieuw te zaaien met probiotische stammen die de spijsvertering niet kunnen overleven of de darm niet kunnen koloniseren. MegaSporeBiotic is snel uitgegroeid tot een favoriet in het huishouden onder zowel gezondheidswerkers als consumenten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerde mix 152 mg
@@ -123,7 +123,7 @@ Mogelijke symptomen kunnen zijn: buikkrampen, dunne ontlasting en veranderingen 
     <price>79.13</price>
     <cost>50.82</cost>
     <available>true</available>
-    <quantity>25</quantity>
+    <quantity>49</quantity>
     <description>&lt;p&gt;MegaMycoBalance is geformuleerd met undecyleenzuur en bijenpropolis om een gezonde gist- en schimmelbalans in het lichaam te ondersteunen.&lt;/p&gt;
 &lt;p&gt;MegaMycoBalance™ is geformuleerd met undecyleenzuur en bijenpropolis om een gezonde gist- en schimmelbalans in het lichaam te ondersteunen. Undecyleenzuur is een organisch vetzuur afkomstig van ricinusolie dat een gezonde balans van gist in de darm ondersteunt. Bijenpropolis is een plantenhars die bijen gebruiken om hun bijenkorven te bekleden.
 
@@ -146,7 +146,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>19.17</price>
     <cost>12.31</cost>
     <available>true</available>
-    <quantity>40</quantity>
+    <quantity>112</quantity>
     <description>&lt;p&gt;RestorFlora™ is een geavanceerde microbiële mix die uitsluitend sporenvormende bacteriestammen bevat, naast een veerkrachtige gistsoort. Omdat ze een beschermende endosporenstructuur hebben, zijn deze micro-organismen zeer stabiel tegen maagzuren, galzouten en spijsverteringsenzymen zonder dat er een enterische coating nodig is. Deze uitzonderlijke overlevingskans zorgt ervoor dat de samenstellende stammen intact het onderste maag-darmkanaal bereiken, waar ze metabolisch actief worden om de intestinale homeostase te ondersteunen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Probiotic Blend – 370 mg&lt;br&gt;• Saccharomyces cerevisiae&lt;br&gt;• Bacillus clausii SC-109&lt;br&gt;• Bacillus subtilis HU58™&lt;br&gt;• Bacillus coagulans SC208&lt;br&gt;Cellulose&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Leeftijd 5+: De eerste 7 dagen, neem na een maaltijd op hetzelfde tijdstip 2 capsules. 
@@ -218,8 +218,8 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <barcode/>
     <price>67.08</price>
     <cost>43.08</cost>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>143</quantity>
     <description>&lt;p&gt;HU58™ is een krachtige dosis van Bacillus subtilis HU58 geformuleerd om de werkzaamheid van MegaSporeBiotic™ te verbeteren. HU58™ kan meer dan 12 gerichte antibiotica in de darmen produceren, waardoor het bijzonder effectief is bij het in evenwicht brengen van de darmmicroflora.&lt;/p&gt;
 &lt;p&gt;Wat is High Potentency Bacillus Subtilis? HU58 is een hoogpotente dosis van Bacillus subtilis HU58, samengesteld om de effectiviteit van MegaSporeBiotic te vergroten. Hoogpotentie Bacillus Subtilis wordt aanbevolen bij frequente reizen. Voordelen van High Potency Bacillus Subtilis zijn onder andere 100% overlevingskans in het spijsverteringskanaal, een toename van 40% in de productie van korteketenvetzuren (SCFA), behoud van een gezonde spijsvertering, ondersteuning van een gezonde immuunfunctie en effectiviteit tijdens antibioticatherapie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;-&lt;/p&gt;
@@ -245,7 +245,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>51.97</price>
     <cost>33.38</cost>
     <available>true</available>
-    <quantity>47</quantity>
+    <quantity>71</quantity>
     <description>&lt;p&gt;Microbiome Labs&amp;#x27; Pregnancy Support is een innovatieve, klinisch bestudeerde, door probiotica aangedreven mix die is samengesteld om een gezonde moeder en baby te ondersteunen vanaf de preconceptie tijdens de zwangerschap en daarna. Het vermindert vaginaal ongemak veroorzaakt door onevenwichtigheden tussen bacteriën en gisten. Het komt ook ten goede aan de zich ontwikkelende baby, waaronder het ondersteunen van een gezonde huidontwikkeling en het delen van essentiële nuttige bacteriën via de moedermelk.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary Probiotic Blend&lt;br&gt;Microcrystalline cellulose&lt;br&gt;Capsule&lt;br&gt;Silica&lt;br&gt;Magnesium stearate&lt;/p&gt;
@@ -264,7 +264,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>67.08</price>
     <cost>43.08</cost>
     <available>true</available>
-    <quantity>1240</quantity>
+    <quantity>1238</quantity>
     <description>&lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;Is een 100% op sporen gebaseerd, breedspectrum probioticum waarvan is aangetoond dat het een gezonde darmbarrièrefunctie behoudt. Deze unieke formule die volledig uit sporen bestaat, herstelt de darm effectief door de microbiële diversiteit te bevorderen en belangrijke gezondheidsbevorderende, commensale darmbacteriën te behouden. MegaSporeBiotic™ is 5 jaar houdbaar, heeft geen koeling nodig en behoudt een gezond darmmicrobioom.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Gepatenteerd mengsel 100 mg
@@ -291,7 +291,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>53.95</price>
     <cost>34.64</cost>
     <available>true</available>
-    <quantity>183</quantity>
+    <quantity>159</quantity>
     <description>&lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteriDSM17648, die specifieke organismen in de darm kan aantrekken en de verwijdering ervan via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam vanL. reuterihandhaaft het H. pylori-gehalte al binnen het normale bereik en ondersteunt de algehele spijsvertering.&lt;/p&gt;
 &lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteri-DSM17648, die specifieke organismen in de darm kan aantrekken en hun verwijdering via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam van L. reuteri houdt de H. pylori-waarden al binnen het normale bereik en ondersteunt de algehele spijsverteringsgezondheid.
 
@@ -358,7 +358,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>67.08</price>
     <cost>43.08</cost>
     <available>true</available>
-    <quantity>70</quantity>
+    <quantity>94</quantity>
     <description>&lt;p&gt;Is het eerste Precision Prebiotic-supplement™ dat bestaat uit klinisch geteste, niet-verteerbare oligosacchariden die de microbiële diversiteit kunnen vergroten en selectief nuttige bacteriën zoals Akkermansia muciniphila, Faecalibacterium prausnitzii en Bifidobacteria kunnen voeden. MegaPre™ VERSTERKT de gunstige microbiële veranderingen die door MegaSporeBiotic™ worden gecreëerd om een sterk en divers microbioom te bevorderen.&lt;/p&gt;
 &lt;p&gt;MegaPre is een geavanceerd Precision Prebiotic-supplement dat bestaat uit klinisch geteste, niet-verteerbare oligosacchariden die de microbiële diversiteit kunnen vergroten en selectief nuttige hoeksteenbacteriën zoals Akkermansia muciniphila, Faecalibacterium prausnitzii en Bifidobacteria kunnen voeden.
 
@@ -382,8 +382,8 @@ Buiten het bereik van kinderen houden. Niet gebruiken als de veiligheidsverzegel
     <barcode/>
     <price>67.08</price>
     <cost>43.08</cost>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>72</quantity>
     <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
@@ -431,8 +431,8 @@ Niet gebruiken als de veiligheidsverzegeling is verbroken of ontbreekt&lt;/p&gt;
     <barcode/>
     <price>53.89</price>
     <cost>34.61</cost>
-    <available>true</available>
-    <quantity>1</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <description>&lt;p&gt;RestorFlora is een probiotisch supplement dat goed bestudeerde en veelgebruikte probiotische stammen Saccharomyces Boulardii, Bacillus Subtilis HU58 en Bacillus Clausii combineert. Deze combinatie van probiotische gist en bacteriën biedt uitgebreide ondersteuning van de spijsverteringsflora met een geavanceerde, dual-action aanpak om een gezond darmmilieu te behouden.&lt;/p&gt;
 &lt;p&gt;RestorFlora™ is een probioticum dat drie goed bestudeerde en veelgebruikte probiotische stammen combineert: Saccharomyces boulardii, Bacillus subtilis en Bacillus clausii. Deze combinatie van klinisch bestudeerde, vriendelijke probiotische gist en probiotische bacteriën biedt uitgebreide ondersteuning van de spijsverteringsflora met een geavanceerde, dubbele aanpak om een gezond darmmilieu te behouden.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Hypoallergenic, Vegetarian&lt;/p&gt;
@@ -717,7 +717,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>56</quantity>
+    <quantity>55</quantity>
     <description>&lt;p&gt;Een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en het is aangetoond dat het goed wordt verdragen door personen met darmklachten, waaronder IBS en SIBO.&lt;/p&gt;
 &lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij personen met darmklachten, waaronder PDS en SIBO.
 
@@ -776,7 +776,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>49</quantity>
+    <quantity>48</quantity>
     <description>&lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel die afkomstig is van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij mensen met darmklachten, waaronder PDS en SIBO.
 
 Klinisch wordt PHGG gebruikt als:
@@ -814,7 +814,7 @@ De aanbevolen dagelijkse hoeveelheid niet overschrijden.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>13</quantity>
+    <quantity>84</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteunende mix van natuurlijke indoolverbindingen
@@ -846,7 +846,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja, Glu
     <price>65.48</price>
     <cost>42.05</cost>
     <available>true</available>
-    <quantity>7</quantity>
+    <quantity>31</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de normale cellulaire energieproductie
@@ -986,7 +986,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>38</quantity>
+    <quantity>37</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -1014,7 +1014,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>124</quantity>
+    <quantity>169</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezonde reactie van de darm op ingenomen histamine
@@ -1089,7 +1089,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>41</quantity>
+    <quantity>63</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezondheid van de luchtwegen helpen ondersteunen
@@ -1312,7 +1312,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>35.51</price>
     <cost>22.81</cost>
     <available>true</available>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Gebruikt niet-gemethyleerde vormen van B12 en foliumzuur
@@ -1422,8 +1422,8 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <barcode/>
     <price>99.88</price>
     <cost>64.14</cost>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>70</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1448,7 +1448,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>18</quantity>
+    <quantity>17</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1752,7 +1752,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>129</quantity>
+    <quantity>201</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Veerkrachtige &amp;quot;probiotische&amp;quot; gist heeft geen koeling nodig
@@ -1808,7 +1808,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>6</quantity>
+    <quantity>30</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezonde reactie van het lichaam op stress helpen ondersteunen
@@ -1866,7 +1866,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>25</quantity>
+    <quantity>92</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -1915,7 +1915,7 @@ Kan helpen bij het ondersteunen van een gezond tryptofaanmetabolisme&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteun de energieproductie door te helpen bij het transport van vetzuren
@@ -1941,7 +1941,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>49.93</price>
     <cost>32.07</cost>
     <available>true</available>
-    <quantity>26</quantity>
+    <quantity>38</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen om de gezondheid van de gewrichten te ondersteunen
@@ -2020,7 +2020,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>10</quantity>
+    <quantity>22</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezond zenuwstelsel
@@ -2207,7 +2207,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>45</quantity>
+    <quantity>43</quantity>
     <description>&lt;p&gt;Magnesiumglycinaatchelaat: Aan glycine gebonden magnesium ondersteunt een optimale opname en benutting van magnesium, evenals ontspanning en gevoelens van rust. Deze vorm van magnesium wordt goed opgenomen en heeft minder kans op laxerende effecten of gastro-intestinale klachten.†&lt;/p&gt;
 &lt;p&gt;Magnesium Glycinate biedt een biobeschikbare bisglycinaatchelaatvorm van magnesium in een handig poeder. Het poedervormige formaat maakt het gemakkelijk om de portiegrootte aan te passen en indien nodig aan te passen. Het kan worden toegevoegd aan water, sap of je favoriete eten of drinken.
 
