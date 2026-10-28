@@ -188,7 +188,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>67.08</price>
     <cost>43.08</cost>
     <available>true</available>
-    <quantity>71</quantity>
+    <quantity>70</quantity>
     <description>&lt;p&gt;ZenBiome Sleep™ is geformuleerd om cliënten te helpen omgaan met incidentele slapeloosheid, maar kan ook helpen bij het ondersteunen van gevoelens van ontspanning en verminderde spanning.&lt;/p&gt;
 &lt;p&gt;Onze nieuwe ZenBiome-collectie™, aangedreven door 1714™, is speciaal ontwikkeld om de darm-hersenas te targeten en cliënten te ondersteunen bij af en toe stress, milde stemmingswisselingen, weinig energie, af en toe vermoeidheid en af en toe slapeloosheid.
 
@@ -383,7 +383,7 @@ Buiten het bereik van kinderen houden. Niet gebruiken als de veiligheidsverzegel
     <price>67.08</price>
     <cost>43.08</cost>
     <available>true</available>
-    <quantity>72</quantity>
+    <quantity>71</quantity>
     <description>&lt;p&gt;FODMATE™ is een innovatieve enzymformule die is ontworpen voor kortdurend gebruik en helpt de spijsverteringsgezondheid te ondersteunen, waaronder verlichting van af en toe krampen, een opgeblazen gevoel, winderigheid, buikpijn, diarree en constipatie die kan ontstaan door het eten van voedingsmiddelen met belangrijke FODMAPs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Proprietary blend – 530 mg&lt;br&gt;• Endo- and Exo Inulinase&lt;br&gt;• Pectinase&lt;br&gt;Lactase – 100 mg&lt;br&gt;Alpha galactosidase – 50 mg&lt;br&gt;Vegetable capsule (hypromellose and water)&lt;br&gt;Cellulose&lt;br&gt;Magnesium stearate&lt;br&gt;Silicon dioxide&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Neem 2 capsules bij de maaltijden of zoals voorgeschreven door een zorgverlener.&lt;/p&gt;
@@ -717,7 +717,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>55</quantity>
+    <quantity>54</quantity>
     <description>&lt;p&gt;Een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en het is aangetoond dat het goed wordt verdragen door personen met darmklachten, waaronder IBS en SIBO.&lt;/p&gt;
 &lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij personen met darmklachten, waaronder PDS en SIBO.
 
@@ -986,7 +986,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>37</quantity>
+    <quantity>35</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -1089,7 +1089,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>63</quantity>
+    <quantity>62</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezondheid van de luchtwegen helpen ondersteunen
@@ -1162,8 +1162,8 @@ Vrij van: Zuivel, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Soja&lt
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
-    <available>true</available>
-    <quantity>3</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van het gebruik en de balans van mineralen
@@ -1752,7 +1752,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>201</quantity>
+    <quantity>200</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Veerkrachtige &amp;quot;probiotische&amp;quot; gist heeft geen koeling nodig
@@ -2442,7 +2442,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>13</quantity>
+    <quantity>11</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Niet-methylvorm van B12
