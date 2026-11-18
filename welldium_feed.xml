@@ -287,7 +287,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>53.95</price>
     <cost>34.64</cost>
     <available>true</available>
-    <quantity>141</quantity>
+    <quantity>138</quantity>
     <description>&lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteriDSM17648, die specifieke organismen in de darm kan aantrekken en de verwijdering ervan via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam vanL. reuterihandhaaft het H. pylori-gehalte al binnen het normale bereik en ondersteunt de algehele spijsvertering.&lt;/p&gt;
 &lt;p&gt;PyloGuard™ is een voedingssupplement dat is ontworpen om de natuurlijke processen van het lichaam voor eliminatie te ondersteunen. Het bevat gepatenteerde Lactobacillus reuteri-DSM17648, die specifieke organismen in de darm kan aantrekken en hun verwijdering via het spijsverteringskanaal kan ondersteunen. Deze specifieke stam van L. reuteri houdt de H. pylori-waarden al binnen het normale bereik en ondersteunt de algehele spijsverteringsgezondheid.
 
@@ -607,7 +607,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <description>&lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
 &lt;p&gt;Bio.Revive™ Beta Immune + bevat de vitaminen en mineralen die nodig zijn om de aanmaak van immunoglobulinen te ondersteunen, zoals secretoire immunoglobuline A (sIgA), en voor de gezondheid van de aangeboren immuunrespons van de epitheelwand, die de eerste verdedigingslinie vormt tegen invasie.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Vitamin A&lt;br&gt;Vitamin D3 – 25 µg&lt;br&gt;Zinc – 20 mg&lt;br&gt;BGF Immune – 350 mg&lt;br&gt;Hydroxypropyl Methylcellulose&lt;/p&gt;
@@ -713,7 +713,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>30.23</price>
     <cost>19.41</cost>
     <available>true</available>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <description>&lt;p&gt;Een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en het is aangetoond dat het goed wordt verdragen door personen met darmklachten, waaronder IBS en SIBO.&lt;/p&gt;
 &lt;p&gt;Bio.Me Prebio PHGG is een kleurloze, smaakloze prebiotische vezel afkomstig van de zaden van de guarplant. Dit poeder lost op in water en is goed verdragen bij personen met darmklachten, waaronder PDS en SIBO.
 
@@ -772,7 +772,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>27.65</price>
     <cost>17.76</cost>
     <available>true</available>
-    <quantity>6</quantity>
+    <quantity>3</quantity>
     <description>&lt;p&gt;Invivo Bio.Me Prebio PHGG levert 100% pure, onvervalste Sunfiber® gedeeltelijk gehydrolyseerde guargom, met 5 g oplosbare galactomannan prebiotische vezels per dagelijkse portie. Afkomstig van de zaden van Cyamopsis tetragonoloba via gecontroleerde enzymatische splitsing, zijn de polysaccharideketens geoptimaliseerd voor lage viscositeit en volledige wateroplosbaarheid zonder gelering. Deze verfijnde moleculaire structuur zorgt voor zachte, uniforme colonfermentatie en een hoge fysiologische tolerantie over diverse gastro-intestinale profielen.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kenmerken:&lt;/strong&gt; Vegan&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingrediënten:&lt;/strong&gt;&lt;br&gt;Sunfiber® AG&lt;/p&gt;
@@ -807,7 +807,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>47.72</price>
     <cost>30.65</cost>
     <available>true</available>
-    <quantity>65</quantity>
+    <quantity>160</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteunende mix van natuurlijke indoolverbindingen
@@ -869,7 +869,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>33</quantity>
+    <quantity>81</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de cognitieve gezondheid
@@ -894,8 +894,8 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <barcode/>
     <price>22.19</price>
     <cost>14.25</cost>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>11</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een normale vochtbalans
@@ -979,7 +979,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>16</quantity>
+    <quantity>64</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -1007,7 +1007,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>97</quantity>
+    <quantity>334</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezonde reactie van de darm op ingenomen histamine
@@ -1082,7 +1082,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>26.63</price>
     <cost>17.10</cost>
     <available>true</available>
-    <quantity>20</quantity>
+    <quantity>139</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan de gezondheid van de luchtwegen helpen ondersteunen
@@ -1441,7 +1441,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>44.38</price>
     <cost>28.50</cost>
     <available>true</available>
-    <quantity>48</quantity>
+    <quantity>96</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Comfort en opluchting na het eten van voedingsmiddelen met veel histamine
@@ -1745,7 +1745,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>25.53</price>
     <cost>16.39</cost>
     <available>true</available>
-    <quantity>148</quantity>
+    <quantity>359</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Veerkrachtige &amp;quot;probiotische&amp;quot; gist heeft geen koeling nodig
@@ -1859,7 +1859,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>58</quantity>
+    <quantity>201</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -1885,7 +1885,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>27.74</price>
     <cost>17.81</cost>
     <available>true</available>
-    <quantity>7</quantity>
+    <quantity>31</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezonde groei en ontwikkeling
@@ -1908,7 +1908,7 @@ Kan helpen bij het ondersteunen van een gezond tryptofaanmetabolisme&lt;/p&gt;
     <price>29.96</price>
     <cost>19.24</cost>
     <available>true</available>
-    <quantity>16</quantity>
+    <quantity>63</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Ondersteun de energieproductie door te helpen bij het transport van vetzuren
@@ -1934,7 +1934,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>49.93</price>
     <cost>32.07</cost>
     <available>true</available>
-    <quantity>35</quantity>
+    <quantity>59</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen om de gezondheid van de gewrichten te ondersteunen
@@ -2200,7 +2200,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>41.06</price>
     <cost>26.37</cost>
     <available>true</available>
-    <quantity>36</quantity>
+    <quantity>101</quantity>
     <description>&lt;p&gt;Magnesiumglycinaatchelaat: Aan glycine gebonden magnesium ondersteunt een optimale opname en benutting van magnesium, evenals ontspanning en gevoelens van rust. Deze vorm van magnesium wordt goed opgenomen en heeft minder kans op laxerende effecten of gastro-intestinale klachten.†&lt;/p&gt;
 &lt;p&gt;Magnesium Glycinate biedt een biobeschikbare bisglycinaatchelaatvorm van magnesium in een handig poeder. Het poedervormige formaat maakt het gemakkelijk om de portiegrootte aan te passen en indien nodig aan te passen. Het kan worden toegevoegd aan water, sap of je favoriete eten of drinken.
 
