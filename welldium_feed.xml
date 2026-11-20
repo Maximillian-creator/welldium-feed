@@ -869,7 +869,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>78</quantity>
+    <quantity>76</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de cognitieve gezondheid
@@ -922,8 +922,8 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <barcode/>
     <price>41.06</price>
     <cost>26.37</cost>
-    <available>true</available>
-    <quantity>1</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Handige formule voor één dag
@@ -979,7 +979,7 @@ Overschrijd de aanbevolen dagelijkse inname niet.&lt;/p&gt;
     <price>54.38</price>
     <cost>34.92</cost>
     <available>true</available>
-    <quantity>61</quantity>
+    <quantity>60</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Broad-spectrum blend van 7 Bifidobacterium-stammen
@@ -1007,7 +1007,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>46.61</price>
     <cost>29.93</cost>
     <available>true</available>
-    <quantity>327</quantity>
+    <quantity>326</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van de gezonde reactie van de darm op ingenomen histamine
@@ -1859,7 +1859,7 @@ Vrij van: Melk, Ei, Vis, Schaaldieren, Noten, Pinda&amp;#x27;s, Tarwe, Kunstmati
     <price>24.42</price>
     <cost>15.68</cost>
     <available>true</available>
-    <quantity>199</quantity>
+    <quantity>197</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Biedt een combinatie van populaire magnesiumvormen
@@ -1885,7 +1885,7 @@ De aanbevolen dagelijkse hoeveelheid mag niet overschreden worden.&lt;/p&gt;
     <price>27.74</price>
     <cost>17.81</cost>
     <available>true</available>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <description>&lt;p&gt;Belangrijkste voordelen en acties*
 
 Kan helpen bij het ondersteunen van een gezonde groei en ontwikkeling
